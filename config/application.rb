@@ -1,4 +1,4 @@
-module ChicagoLotManagement
+module JobAdsExampleApp
   class App < Sinatra::Base
     register Sinatra::AssetPack
     register Sinatra::Partial

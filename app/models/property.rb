@@ -1,7 +1,3 @@
-class Property < ActiveRecord::Base
-  belongs_to :user
+class JobAd < ActiveRecord::Base
 
-  def monthly_payment
-    Stripe::Plan.retrieve(subscription_type).amount
-  end
 end
