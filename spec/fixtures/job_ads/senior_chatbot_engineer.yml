@@ -1,0 +1,47 @@
+company: "Catalytic"
+
+title: Senior Chatbot Engineer
+
+location: Chicago, IL
+
+position: Full-time
+
+salary: "100,000 - 120,000 + equity"
+
+job_description:
+  "We’re on a mission to elevate team operations. We are building Pushbot, a platform for business processes. We believe that the time has come to set aside misfit, clunky, and legacy solutions. It’s time to embrace the modern era of cloud computing, conversational UI, bots, mobility, machine learning, and beautifully-designed, user-centric interfaces.
+
+  Catalytic is looking for a senior-level engineer to lead development of our chat interface to Pushbot. You will own the conversation engine that will allow our customers to chat with Pushbot via email, Slack, HipChat, SMS, WeChat, etc. Your mission will be to ensure that users love interacting with Pushbot using natural, intuitive language. We have a working prototype in place for our pilot customers, so your focus will be on creating a solid foundation for us to build on.
+
+  Our backend runs in node.js on AWS Lambda fronted by API Gateway and CloudFront. We’ve build an automated testing and deployment pipeline around GitHub, CircleCI and Slack. For storage we primarily use DynamoDB, S3 and ElasticSearch. Whether or not you’re already familiar with these or the dozen other services we use, together we’ll make sure you develop a deep expertise with all of them."
+
+company_description:
+  "We are Catalytic. We are dreamers, but we are also doers. Proven doers in fact.
+
+    We’re on a mission to elevate team operations. We are building Pushbot, a platform for business processes. We believe that the time has come to set aside misfit, clunky, and legacy solutions. It’s time to embrace the modern era of cloud computing, conversational UI, bots, mobility, machine learning, and beautifully-designed, user-centric interfaces.
+
+    If our mission speaks to you, we’d love to talk more! We’re looking for people who are voracious learners, courageous risk-takers, pragmatic perfectionists, and self-directed team players.
+
+    We know that the best people have a lot of choices so here’s our pitch to you. At Catalytic, you will be working:
+
+    On an ambitious platform designed to solve serious, long-standing business problems.
+    On an amazing, cutting-edge technology stack that leverages the latest platforms and decades of hard-earned experience.
+    At a well-funded startup, backed by some of the best institutional venture capital firms around.
+    Side-by-side with some of most accomplished business professionals and technologists around.
+    In a casual, friendly environment that respects and encourages work-life balance with great benefits and an unlimited vacation policy."
+
+
+skills_and_requirements:
+  "We hire first and foremost for fit because one of the most awesome things about a startup like ours is that you get to choose your own adventure. Wherever and however you start at Catalytic, it’s up to you to shape your own destiny.
+
+    That said, you need to start somewhere, and this position is focused on the following:
+
+    Build a robust classification engine
+    Build a feature extraction engine to read data from messages
+    Build integrations to chat platforms like Slack and Hipchat
+    Build an engine to generate natural language responses to user messages
+    We’d love to see you have the following skills and experiences, but encourage you to apply if you are close and, most importantly, if you’re passionate about these:
+
+    Chatbots and Conversational UIs
+    NLP & NLG
+    Python or JavaScript"
