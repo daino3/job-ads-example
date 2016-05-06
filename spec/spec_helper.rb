@@ -29,6 +29,8 @@ require_relative "../config/environment"
 
 Capybara.app = JobAdsExampleApp::App
 
+ActiveRecord::Migrator.up("#{APP_ROOT}/db/migrate")
+
 RSpec.configure do |config|
 
   config.include RSpecMixin

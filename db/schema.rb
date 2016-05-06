@@ -11,30 +11,14 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150719231531) do
-
-  # These are extensions that must be enabled in order to support this database
-  enable_extension "plpgsql"
-
-  create_table "properties", force: :cascade do |t|
-    t.integer "user_id"
-    t.string  "address"
-    t.string  "city",              default: "Chicago"
-    t.string  "state",             default: "Illinois"
-    t.string  "zip_code"
-    t.string  "subscription_id"
-    t.string  "subscription_type"
-  end
+ActiveRecord::Schema.define(version: 20150329195418) do
 
   create_table "users", force: :cascade do |t|
-    t.string "first_name"
-    t.string "last_name"
-    t.string "email"
-    t.string "stripe_id"
-    t.string "stripe_token"
-    t.string "company"
-    t.string "phone_number"
-    t.string "promo_code"
+    t.string "first_name",   limit: 255
+    t.string "last_name",    limit: 255
+    t.string "email",        limit: 255
+    t.string "company",      limit: 255
+    t.string "phone_number", limit: 255
   end
 
 end

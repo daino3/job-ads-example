@@ -10,9 +10,10 @@ $: << File.expand_path('../../', __FILE__)
 
 # Require gems we care about
 require 'rubygems'
+require 'pry'
 
 require 'uri'
-require 'pg'
+require 'mysql2'
 require 'active_record'
 require 'logger'
 # Framework

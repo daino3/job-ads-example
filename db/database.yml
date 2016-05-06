@@ -1,0 +1,15 @@
+default: &DEFAULT
+  adapter: mysql2
+  encoding: utf8
+  host: localhost
+  pool: 5
+  username: root
+  password: root
+
+development:
+  <<: *DEFAULT
+  database: jobs_development
+
+test:
+  adapter: sqlite3
+  database: ":memory:"
