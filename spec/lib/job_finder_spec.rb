@@ -42,7 +42,7 @@ describe JobFinder do
       end
 
       context 'Geolocation ' do
-        it 'finds accountants sorted by distance away from', :focus do
+        it 'finds accountants sorted by distance away from' do
           # Search with Chicago Coords
           chicago_coord = GeoLookup.get_coordinates("Chicago", "Illinois")
           chi_response = JobFinder.search("accounting", chicago_coord[0], chicago_coord[1])
