@@ -40,6 +40,7 @@ group :test do
   gem 'rack-test'
   gem 'rspec'
   gem 'sqlite3'
+  gem 'shoulda-matchers', require: false
 end
 
 ruby '2.1.2'

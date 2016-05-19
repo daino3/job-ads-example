@@ -80,6 +80,8 @@ GEM
       rspec-support (~> 3.2.0)
     rspec-support (3.2.2)
     sass (3.3.10)
+    shoulda-matchers (3.1.1)
+      activesupport (>= 4.0.0)
     sinatra (1.4.7)
       rack (~> 1.5)
       rack-protection (~> 1.4)
@@ -137,6 +139,7 @@ DEPENDENCIES
   rake
   rspec
   sass
+  shoulda-matchers
   sinatra
   sinatra-activerecord
   sinatra-assetpack
