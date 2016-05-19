@@ -9,21 +9,21 @@ doctype html
   html.no-js lang="en"
 
 head
-  title = "Chicago Lot Management"
+  title = "Spera"
   == partial(:'shared/meta')
   == partial(:'shared/scripts')
   == css :application
   == js :application
 
-  javascript:
-    // Configure stripe.js
-    Stripe.setPublishableKey("#{ENV['STRIPE_PUBLISHABLE_KEY']}");
-
-    $.get('/plan-data', function(response) {
-      window.StripePricing = response
-      window.currentPlan = "#{@plan.id if @plan}"
-    })
-
 body
+  nav.top-bar data-topbar="" role="navigation"
+    ul.title-area
+      li.name
+        h1
+          a href="/" Spera
+      li.toggle-topbar.menu-icon
+        a href="#"
+          span Menu
+
   .row
     == yield
