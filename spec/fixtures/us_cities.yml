@@ -1,0 +1,3726 @@
+# Latitude-Longitude of US Cities (www.realestate3d.com)
+
+Columns:
+  - LAT
+  - LON
+  - Location
+
+Alabama:
+  Anniston:
+    - 33.58
+    - 85.85
+  Auburn:
+    - 32.67
+    - 85.44
+  Birmingham:
+    - 33.57
+    - 86.75
+  Centreville:
+    - 32.90
+    - 87.25
+  Dothan:
+    - 31.32
+    - 85.45
+  Fort Rucker:
+    - 31.28
+    - 85.72
+  Gadsden:
+    - 33.97
+    - 86.09
+  Huntsville:
+    - 34.65
+    - 86.77
+  Maxwell AFB:
+    - 32.38
+    - 86.37
+  Mobile:
+    - 30.68
+    - 88.25
+  Mobile Aeros:
+    - 30.63
+    - 88.07
+  Montgomery:
+    - 32.30
+    - 86.40
+  Muscle Shoal:
+    - 34.75
+    - 87.62
+  Selma:
+    - 32.34
+    - 86.99
+  Troy:
+    - 31.87
+    - 86.02
+  Tuscaloosa:
+    - 33.23
+    - 87.62
+
+Alaska:
+  Adak:
+    - 51.88
+    - 176.65
+  Ambler:
+    - 67.10
+    - 157.85
+  Anchorage:
+    - 61.17
+    - 150.02
+  Anchorage:
+    - 61.22
+    - 149.85
+  Angoon:
+    - 57.83
+    - 134.97
+  Aniak:
+    - 61.58
+    - 159.53
+  Annette Isl:
+    - 55.03
+    - 131.57
+  Attu:
+    - 53.50
+    - 173.30
+  Barrow:
+    - 71.30
+    - 156.78
+  Barter Islan:
+    - 70.13
+    - 143.63
+  Bethel Arpt:
+    - 60.78
+    - 161.80
+  Bettles:
+    - 66.92
+    - 151.52
+  Big Delta:
+    - 64.00
+    - 145.73
+  Big River Lk:
+    - 60.82
+    - 152.30
+  Cantwell:
+    - 63.38
+    - 148.95
+  Cape Decis:
+    - 56.00
+    - 134.22
+  Cape Hinchi:
+    - 60.38
+    - 147.08
+  Cape Spence:
+    - 58.33
+    - 137.05
+  Cape St Eli:
+    - 60.33
+    - 145.00
+  Chandalar Lk:
+    - 67.50
+    - 148.48
+  Chulitna:
+    - 62.88
+    - 149.83
+  Circle City:
+    - 65.83
+    - 144.07
+  Cold Bay:
+    - 55.20
+    - 162.72
+  Cordova:
+    - 60.50
+    - 145.50
+  Craig:
+    - 55.80
+    - 133.25
+  Deadhorse:
+    - 70.20
+    - 148.47
+  Dillingham:
+    - 59.05
+    - 158.52
+  Duffys Tavern:
+    - 62.73
+    - 143.92
+  Dutch Harbor:
+    - 53.88
+    - 166.53
+  Eagle Arpt:
+    - 64.77
+    - 141.15
+  Eldred Rock:
+    - 59.62
+    - 135.37
+  Elfin Cove:
+    - 58.20
+    - 136.35
+  Fairbanks:
+    - 64.82
+    - 147.87
+  Farewell:
+    - 62.85
+    - 154.47
+  Five Finger:
+    - 57.45
+    - 134.03
+  Five Mile:
+    - 65.93
+    - 149.83
+  Fort Yukon:
+    - 66.57
+    - 145.27
+  Funter Bay:
+    - 58.25
+    - 134.90
+  Galbraith Lk:
+    - 68.48
+    - 149.48
+  Gambell:
+    - 63.77
+    - 171.73
+  Gulkana Arpt:
+    - 62.15
+    - 145.45
+  Gustavus:
+    - 58.42
+    - 135.73
+  Haines Hrbor:
+    - 59.23
+    - 135.43
+  Hayes River:
+    - 61.98
+    - 152.08
+  Healy River:
+    - 63.83
+    - 149.00
+  Homer:
+    - 59.63
+    - 151.50
+  Hoonah Seapl:
+    - 58.10
+    - 135.45
+  Iliamna Arpt:
+    - 59.75
+    - 154.92
+  Juneau:
+    - 58.37
+    - 134.58
+  Kake Seaplan:
+    - 56.97
+    - 133.95
+  Kenai:
+    - 60.57
+    - 151.25
+  Ketchikan:
+    - 55.35
+    - 131.70
+  King Salmon:
+    - 58.68
+    - 156.65
+  Kodiak:
+    - 57.75
+    - 152.50
+  Kotzebue:
+    - 66.87
+    - 162.63
+  Lazy Mtn:
+    - 61.63
+    - 149.03
+  Lonely (dew):
+    - 70.92
+    - 153.23
+  Manley Ht Sp:
+    - 65.00
+    - 150.65
+  Mccarthy:
+    - 61.43
+    - 142.92
+  Mcgrath:
+    - 62.97
+    - 155.62
+  Mekoryuk:
+    - 60.37
+    - 166.27
+  Middleton Is:
+    - 59.43
+    - 146.33
+  Minchumina:
+    - 63.90
+    - 152.27
+  Nenana:
+    - 64.55
+    - 149.08
+  New Andreafs:
+    - 62.07
+    - 163.30
+  Nikolski:
+    - 53.58
+    - 169.42
+  Nome:
+    - 64.50
+    - 165.43
+  Northway:
+    - 62.97
+    - 141.93
+  Oliktok Dew:
+    - 70.50
+    - 149.88
+  Palmer:
+    - 61.60
+    - 149.08
+  Paxson:
+    - 63.03
+    - 145.50
+  Petersburg:
+    - 56.82
+    - 132.97
+  Point Lay:
+    - 69.82
+    - 162.92
+  Port Alexndr:
+    - 56.25
+    - 134.65
+  Port Clarnce:
+    - 65.25
+    - 166.87
+  Port Heiden:
+    - 56.95
+    - 158.62
+  Prospect Crk:
+    - 66.82
+    - 150.65
+  Prudhoe Bay:
+    - 70.25
+    - 148.33
+  Pt Alsworth:
+    - 60.20
+    - 154.30
+  Puntilla:
+    - 62.17
+    - 153.25
+  Sand Point:
+    - 55.33
+    - 160.50
+  Seward:
+    - 60.18
+    - 149.75
+  Shemy:
+    - 53.20
+    - 174.13
+  Shishmaref:
+    - 66.27
+    - 166.03
+  Sitka:
+    - 57.07
+    - 135.35
+  Sitkinak:
+    - 56.88
+    - 154.20
+  Skagway:
+    - 59.75
+    - 135.53
+  Skwentna:
+    - 61.97
+    - 151.20
+  Snowshoe Lk:
+    - 62.03
+    - 146.67
+  St Paul Is:
+    - 57.15
+    - 170.22
+  Tahneta Pass:
+    - 61.90
+    - 147.30
+  Talkeetna:
+    - 62.30
+    - 150.10
+  Tanana:
+    - 65.17
+    - 152.10
+  Umiat:
+    - 69.37
+    - 152.13
+  Unalakleet:
+    - 63.88
+    - 160.80
+  Valdez:
+    - 61.13
+    - 146.35
+  Valdez 2:
+    - 61.13
+    - 146.25
+  Wainwright:
+    - 70.62
+    - 159.85
+  Wales:
+    - 66.03
+    - 168.08
+  Whittier:
+    - 60.78
+    - 148.72
+  Willow Arpt:
+    - 61.75
+    - 150.05
+  Wrangell:
+    - 56.48
+    - 132.37
+  Yakutat:
+    - 59.52
+    - 139.67
+
+Arizona:
+  Davis-M AFB:
+    - 32.17
+    - 110.88
+  Deer Valley:
+    - 33.68
+    - 112.08
+  Douglas:
+    - 31.45
+    - 109.60
+  Falcon Fld:
+    - 33.47
+    - 111.73
+  Flagstaff:
+    - 35.13
+    - 111.67
+  Fort Huachuc:
+    - 31.60
+    - 110.35
+  Gila Bend:
+    - 33.55
+    - 113.17
+  Goodyear:
+    - 33.42
+    - 112.38
+  Grand Canyon:
+    - 35.95
+    - 112.15
+  Kingman:
+    - 35.27
+    - 113.95
+  Luke:
+    - 33.53
+    - 112.38
+  Page:
+    - 36.93
+    - 111.45
+  Payson:
+    - 34.23
+    - 111.33
+  Phoenix:
+    - 33.43
+    - 112.02
+  Prescott:
+    - 34.65
+    - 112.43
+  Safford Awrs:
+    - 32.82
+    - 109.68
+  Scottsdale:
+    - 33.62
+    - 111.92
+  Show Low:
+    - 34.27
+    - 110.00
+  Show Low:
+    - 34.27
+    - 110.00
+  Tucson:
+    - 32.12
+    - 110.93
+  Williams AFB:
+    - 33.30
+    - 111.67
+  Winslow:
+    - 35.02
+    - 110.73
+  Yuma:
+    - 33.10
+    - 115.00
+  Yuma Mcas:
+    - 32.65
+    - 114.62
+  Yuma Prv Gd:
+    - 32.85
+    - 114.40
+
+Arkansas:
+  Blytheville:
+    - 35.97
+    - 89.95
+  Camden:
+    - 33.52
+    - 92.40
+  El Dorado:
+    - 33.22
+    - 92.80
+  Fayetteville:
+    - 36.00
+    - 94.17
+  Ft Smith:
+    - 35.33
+    - 94.37
+  Harrison:
+    - 36.27
+    - 93.15
+  Hot Springs:
+    - 34.48
+    - 93.10
+  Jonesboro:
+    - 35.83
+    - 90.65
+  Little Rock:
+    - 35.22
+    - 92.38
+  Little Rock:
+    - 34.92
+    - 92.15
+  Little Rock:
+    - 34.83
+    - 92.25
+  Pine Bluff:
+    - 34.17
+    - 91.93
+  Springdale:
+    - 36.18
+    - 94.13
+  Texarkana:
+    - 33.45
+    - 94.00
+  Walnut Ridge:
+    - 36.13
+    - 90.93
+
+California:
+  Alameda NAS:
+    - 37.78
+    - 122.32
+  Alturas:
+    - 41.48
+    - 120.53
+  Arcata:
+    - 40.98
+    - 124.10
+  Bakersfield:
+    - 35.43
+    - 119.05
+  Beale AFB:
+    - 39.13
+    - 121.45
+  Beaumont:
+    - 33.93
+    - 116.95
+  Bicycle Lk:
+    - 35.28
+    - 116.62
+  Big Bear Apt:
+    - 34.27
+    - 116.68
+  Bishop:
+    - 37.60
+    - 118.60
+  Blue Canyon:
+    - 39.28
+    - 120.70
+  Blythe:
+    - 33.62
+    - 114.72
+  Burbank:
+    - 34.20
+    - 118.37
+  Camp Pendlet:
+    - 33.30
+    - 117.35
+  Campo:
+    - 32.62
+    - 116.47
+  Carlsbad:
+    - 33.13
+    - 117.28
+  Castle AFB:
+    - 37.38
+    - 120.57
+  Chico:
+    - 39.78
+    - 121.85
+  China Lake:
+    - 35.68
+    - 117.68
+  Chino:
+    - 33.97
+    - 117.63
+  Concord:
+    - 37.98
+    - 122.05
+  Crescent Cty:
+    - 41.78
+    - 124.23
+  Daggett:
+    - 34.87
+    - 116.78
+  Edwards AFB:
+    - 34.90
+    - 117.88
+  El Centro:
+    - 32.82
+    - 115.68
+  El Monte:
+    - 34.08
+    - 118.03
+  El Toro:
+    - 33.67
+    - 117.73
+  Eureka:
+    - 41.33
+    - 124.28
+  Fort Hunter:
+    - 36.00
+    - 121.32
+  Fort Ord:
+    - 36.68
+    - 121.77
+  Fresno:
+    - 36.77
+    - 119.72
+  Fullerton:
+    - 33.87
+    - 117.97
+  George AFB:
+    - 34.58
+    - 117.38
+  Hawthorne:
+    - 33.92
+    - 118.33
+  Hayward:
+    - 37.65
+    - 122.12
+  Imperial:
+    - 32.83
+    - 115.57
+  Imperial Bch:
+    - 32.57
+    - 117.12
+  La Verne:
+    - 34.10
+    - 117.78
+  Lake Tahoe:
+    - 38.90
+    - 120.00
+  Lancaster:
+    - 34.73
+    - 118.22
+  Lemoore NAS:
+    - 36.33
+    - 119.95
+  Livermore:
+    - 37.70
+    - 121.82
+  Long Beach:
+    - 33.82
+    - 118.15
+  Los Alamitos:
+    - 33.78
+    - 118.05
+  Los Angeles:
+    - 33.93
+    - 118.40
+  Mammoth Lks:
+    - 37.63
+    - 118.92
+  March AFB:
+    - 33.88
+    - 117.27
+  Marysville:
+    - 39.10
+    - 121.57
+  Mather AFB:
+    - 38.57
+    - 121.30
+  Mcclellan:
+    - 38.67
+    - 121.40
+  Merced:
+    - 37.28
+    - 120.52
+  Miramar NAS:
+    - 32.87
+    - 117.15
+  Modesto:
+    - 37.63
+    - 120.95
+  Moffet NAS:
+    - 37.42
+    - 122.05
+  Mojave:
+    - 35.05
+    - 118.15
+  Montague:
+    - 41.73
+    - 122.53
+  Monterey:
+    - 36.58
+    - 121.85
+  Mount Shasta:
+    - 41.32
+    - 122.32
+  Mount Wilson:
+    - 34.23
+    - 118.07
+  Napa:
+    - 38.22
+    - 122.28
+  Needles:
+    - 34.77
+    - 114.62
+  North Is:
+    - 32.70
+    - 117.20
+  Norton AFB:
+    - 34.10
+    - 117.23
+  Oakland:
+    - 37.73
+    - 122.22
+  Ontario Intl:
+    - 34.05
+    - 117.62
+  Oxnard:
+    - 34.20
+    - 119.20
+  Palm Springs:
+    - 33.83
+    - 116.50
+  Palmdale:
+    - 35.05
+    - 118.13
+  Palo Alto:
+    - 37.47
+    - 122.12
+  Paso Robles:
+    - 35.67
+    - 120.63
+  Pillaro Pt:
+    - 37.83
+    - 122.83
+  Point Mugu:
+    - 34.12
+    - 119.12
+  Pt Arena:
+    - 39.58
+    - 124.22
+  Pt Arguello:
+    - 34.95
+    - 121.12
+  Pt Piedras:
+    - 35.67
+    - 121.28
+  Pt Piedras:
+    - 36.12
+    - 121.47
+  Red Bluff:
+    - 40.15
+    - 122.25
+  Redding:
+    - 40.50
+    - 122.30
+  Riverside:
+    - 33.95
+    - 117.45
+  Sacramento:
+    - 38.52
+    - 121.50
+  Salinas:
+    - 36.67
+    - 121.60
+  San Carlos:
+    - 37.52
+    - 122.25
+  San Clemente:
+    - 33.42
+    - 117.62
+  San Clemente:
+    - 33.02
+    - 118.58
+  San Diego:
+    - 32.82
+    - 117.13
+  San Francisco:
+    - 37.75
+    - 122.68
+  San Jose:
+    - 37.37
+    - 121.92
+  San Jose/Rei:
+    - 37.33
+    - 121.82
+  San Luis Obi:
+    - 35.23
+    - 120.65
+  San Mateo:
+    - 33.38
+    - 117.58
+  San Miguel:
+    - 34.03
+    - 120.40
+  San Nic Isl:
+    - 33.25
+    - 119.45
+  Sandburg:
+    - 34.75
+    - 118.73
+  Santa Ana:
+    - 33.67
+    - 117.88
+  Santa Barb:
+    - 34.43
+    - 119.83
+  Santa Maria:
+    - 34.90
+    - 120.45
+  Santa Monica:
+    - 34.02
+    - 118.45
+  Santa Rosa:
+    - 38.52
+    - 122.82
+  Shelter Cove:
+    - 40.03
+    - 124.07
+  Siskiyou:
+    - 41.78
+    - 122.47
+  Stockton:
+    - 37.90
+    - 121.25
+  Superior Val:
+    - 35.33
+    - 117.10
+  Susanville:
+    - 40.63
+    - 120.95
+  Thermal:
+    - 33.63
+    - 116.17
+  Torrance:
+    - 33.80
+    - 118.33
+  Travis AFB:
+    - 38.27
+    - 121.93
+  Truckee-Tahoe:
+    - 39.32
+    - 120.13
+  Tustin Mcas:
+    - 33.70
+    - 117.83
+  Twenty9 Palm:
+    - 34.28
+    - 116.15
+  Ukiah:
+    - 39.13
+    - 123.20
+  Van Nuys:
+    - 34.22
+    - 118.48
+  Vandenberg:
+    - 35.20
+    - 120.95
+  Vandenberg:
+    - 35.20
+    - 120.95
+  Visalia:
+    - 36.32
+    - 119.40
+
+Colorado:
+  Air Force:
+    - 39.52
+    - 105.35
+  Akron:
+    - 40.17
+    - 103.22
+  Alamosa:
+    - 37.45
+    - 105.87
+  Aspen:
+    - 39.22
+    - 106.87
+  Brmfield/Jef:
+    - 39.90
+    - 105.12
+  Buckley:
+    - 39.72
+    - 104.75
+  Colo Sprgs:
+    - 38.82
+    - 104.72
+  Cortez:
+    - 37.30
+    - 108.63
+  Craig-Moffat:
+    - 40.50
+    - 107.53
+  Denver:
+    - 39.75
+    - 104.87
+  Durango:
+    - 37.15
+    - 107.75
+  Eagle:
+    - 39.65
+    - 106.92
+  Englewood:
+    - 39.57
+    - 104.83
+  Fort Carson:
+    - 38.68
+    - 104.77
+  Fraser:
+    - 39.57
+    - 105.50
+  Ft Col/Lovel:
+    - 40.45
+    - 105.02
+  Ft Collins:
+    - 40.58
+    - 105.08
+  Grand Jct:
+    - 39.12
+    - 108.53
+  Greeley-Wld:
+    - 40.43
+    - 104.63
+  Gunnison:
+    - 38.55
+    - 106.93
+  Gunnison:
+    - 38.55
+    - 106.92
+  La Junta:
+    - 38.05
+    - 103.52
+  Lamar:
+    - 38.12
+    - 102.60
+  Leadville:
+    - 39.25
+    - 106.30
+  Limon:
+    - 39.18
+    - 103.70
+  Montrose:
+    - 38.50
+    - 107.88
+  Montrose:
+    - 38.50
+    - 107.88
+  Pueblo:
+    - 38.28
+    - 104.52
+  Rifle:
+    - 39.53
+    - 107.80
+  Salida:
+    - 38.53
+    - 106.05
+  Steamboat Sp:
+    - 40.48
+    - 106.82
+  Trinidad:
+    - 37.25
+    - 104.33
+  Winter Park:
+    - 40.00
+    - 105.87
+
+Connecticut:
+  Bridgeport:
+    - 41.17
+    - 73.13
+  Danbury:
+    - 41.37
+    - 73.48
+  Groton:
+    - 41.33
+    - 72.05
+  Hartford:
+    - 41.73
+    - 72.65
+  New Haven:
+    - 41.22
+    - 72.67
+  New Haven:
+    - 41.27
+    - 72.88
+  New Haven:
+    - 41.27
+    - 72.90
+  New London:
+    - 41.30
+    - 72.08
+  Windsor Loc:
+    - 41.93
+    - 72.68
+
+Delaware:
+  Dover:
+    - 39.13
+    - 75.47
+  Wilmington:
+    - 39.67
+    - 75.60
+
+District of Columbia:
+  Washington Dulles:
+    - 38.95
+    - 77.46
+  Washington Natl:
+    - 38.85
+    - 77.04
+
+Florida:
+  Apalachicola:
+    - 29.73
+    - 85.03
+  Astor NAS:
+    - 29.12
+    - 81.57
+  Avon Park G:
+    - 28.08
+    - 81.55
+  Cape Canaveral:
+    - 28.47
+    - 80.55
+  Cecil:
+    - 30.22
+    - 81.88
+  Crestview:
+    - 30.78
+    - 86.52
+  Cross City:
+    - 29.62
+    - 83.10
+  Daytona Bch:
+    - 29.18
+    - 81.05
+  Duke Fld:
+    - 30.65
+    - 86.52
+  Eglin AFB:
+    - 30.48
+    - 86.53
+  Egmont Key:
+    - 27.60
+    - 82.77
+  Fort Lauderd:
+    - 26.13
+    - 80.13
+  Fort Myers:
+    - 26.58
+    - 81.87
+  Ft Lauderdale:
+    - 26.07
+    - 80.15
+  Ft Myers:
+    - 26.65
+    - 81.87
+  Gainesville:
+    - 29.68
+    - 82.27
+  Homestead:
+    - 25.48
+    - 80.38
+  Hurlburt Fld:
+    - 30.43
+    - 86.68
+  Jacksonville:
+    - 30.33
+    - 81.52
+  Jacksonville:
+    - 30.50
+    - 81.70
+  Jacksonville:
+    - 30.23
+    - 81.68
+  Key West:
+    - 24.55
+    - 81.75
+  Key West NAS:
+    - 24.57
+    - 81.68
+  Lakeland:
+    - 28.03
+    - 81.95
+  Macdill AFB:
+    - 27.85
+    - 82.52
+  Marianna:
+    - 30.84
+    - 85.18
+  Mayport NAS:
+    - 30.40
+    - 81.42
+  Melbourne:
+    - 28.10
+    - 80.63
+  Miami Intl:
+    - 25.82
+    - 80.28
+  Miami/Opa:
+    - 25.92
+    - 80.28
+  Miami/Tamiami:
+    - 25.65
+    - 80.43
+  Naples:
+    - 26.13
+    - 81.80
+  Nasa Shuttle:
+    - 28.62
+    - 80.68
+  Orlando:
+    - 28.43
+    - 81.32
+  Orlando:
+    - 28.55
+    - 81.33
+  Panama City:
+    - 30.20
+    - 85.68
+  Patrick AFB:
+    - 28.23
+    - 80.60
+  Pensacola:
+    - 30.35
+    - 87.32
+  Pensacola:
+    - 30.47
+    - 87.20
+  Ruskin:
+    - 27.97
+    - 82.60
+  Saint Peters:
+    - 27.92
+    - 82.68
+  Sanford:
+    - 28.78
+    - 81.25
+  Sarasota:
+    - 27.40
+    - 82.55
+  Tallahassee:
+    - 30.38
+    - 84.37
+  Tampa Intl:
+    - 27.97
+    - 82.53
+  Titusville:
+    - 28.52
+    - 80.80
+  Tyndall AFB:
+    - 30.07
+    - 85.58
+  Vero Beach:
+    - 27.65
+    - 80.42
+  W Palm Beach:
+    - 26.68
+    - 80.12
+  Whiting Fld:
+    - 30.72
+    - 87.02
+
+Georgia:
+  Albany:
+    - 31.53
+    - 84.18
+  Alma:
+    - 31.53
+    - 82.52
+  Athens:
+    - 33.95
+    - 83.32
+  Atlanta:
+    - 33.65
+    - 84.42
+  Atlanta:
+    - 33.65
+    - 84.42
+  Atlanta/Dklb:
+    - 33.88
+    - 84.30
+  Atlanta/Fltn:
+    - 33.78
+    - 84.52
+  Augusta/Bush:
+    - 33.37
+    - 81.97
+  Brunswick:
+    - 31.15
+    - 81.38
+  Columbus:
+    - 32.52
+    - 84.93
+  Dobbins AFB:
+    - 33.92
+    - 84.52
+  Dobbins AFB:
+    - 34.53
+    - 84.87
+  Fort Benning:
+    - 32.33
+    - 85.00
+  Ft Stewart:
+    - 31.88
+    - 81.57
+  Hunter Aaf:
+    - 32.02
+    - 81.15
+  La Grange:
+    - 33.01
+    - 85.07
+  Macon/Lewis:
+    - 32.70
+    - 83.65
+  Moody AFB:
+    - 30.97
+    - 83.20
+  Robins AFB:
+    - 32.63
+    - 83.60
+  Rome/Russell:
+    - 34.35
+    - 85.17
+  Savannah Mun:
+    - 32.13
+    - 81.20
+  Valdosta:
+    - 30.78
+    - 83.28
+  Waycross:
+    - 31.25
+    - 82.40
+
+Hawaii:
+  Barbers Pt:
+    - 21.53
+    - 158.12
+  Barbers Pt:
+    - 21.53
+    - 158.12
+  Barking San:
+    - 22.05
+    - 160.30
+  Fr Frigate:
+    - 24.45
+    - 166.47
+  Hilo:
+    - 19.72
+    - 155.07
+  Honolulu Int:
+    - 21.35
+    - 157.93
+  Kahului Maui:
+    - 20.90
+    - 156.43
+  Kaneohe Mca:
+    - 21.75
+    - 158.28
+  Kaneohe Mca:
+    - 21.75
+    - 158.28
+  Ke-Ahole/Kon:
+    - 19.75
+    - 156.05
+  Kilauea Pt:
+    - 22.38
+    - 159.67
+  Lanai-Lanai:
+    - 20.80
+    - 156.95
+  Lihue-Kauai:
+    - 21.98
+    - 159.35
+  Maui:
+    - 20.97
+    - 156.83
+  Molokai:
+    - 21.15
+    - 157.10
+  Upolo Pt Ln:
+    - 20.42
+    - 156.47
+  Waimea-Koha:
+    - 20.00
+    - 156.12
+
+Idaho:
+  Boise:
+    - 43.57
+    - 116.22
+  Burley:
+    - 42.53
+    - 113.77
+  Challis:
+    - 44.52
+    - 114.22
+  Coeur d'Alene:
+    - 47.77
+    - 116.82
+  Elk City:
+    - 45.82
+    - 115.43
+  Gooding:
+    - 43.00
+    - 115.17
+  Grangeville:
+    - 45.92
+    - 116.13
+  Idaho Falls:
+    - 43.52
+    - 112.07
+  Lewiston:
+    - 46.38
+    - 117.02
+  Malad City:
+    - 42.17
+    - 112.32
+  Malta:
+    - 42.30
+    - 113.37
+  Mccall:
+    - 44.88
+    - 116.10
+  Mountn Home:
+    - 43.05
+    - 115.87
+  Mullan:
+    - 47.47
+    - 115.80
+  Pocatello:
+    - 42.92
+    - 112.60
+  Salmon:
+    - 45.18
+    - 113.90
+  Salmon:
+    - 45.17
+    - 114.47
+  Soda Springs:
+    - 42.65
+    - 111.58
+  Sun Valley:
+    - 43.50
+    - 114.30
+  Twin Falls:
+    - 42.48
+    - 114.48
+
+Illinois:
+  Alton:
+    - 38.88
+    - 90.05
+  Aurora:
+    - 41.77
+    - 88.32
+  Bistate Park:
+    - 38.57
+    - 90.15
+  Bloomington:
+    - 40.48
+    - 88.93
+  Bradford:
+    - 41.16
+    - 89.60
+  Cairo:
+    - 37.07
+    - 89.22
+  Carbondale:
+    - 37.78
+    - 89.25
+  Centralia:
+    - 38.51
+    - 89.09
+  Champaign/Urbana:
+    - 40.03
+    - 88.28
+  Chicago:
+    - 41.90
+    - 87.65
+  Danville:
+    - 40.20
+    - 87.60
+  DeKalb:
+    - 41.93
+    - 88.72
+  Decatur:
+    - 39.83
+    - 88.87
+  Du Page:
+    - 41.92
+    - 88.25
+  Galesburg:
+    - 40.93
+    - 90.43
+  Glenview NAS:
+    - 42.08
+    - 87.82
+  Kankakee:
+    - 41.07
+    - 87.85
+  Macomb:
+    - 40.52
+    - 90.66
+  Marion:
+    - 37.75
+    - 89.00
+  Marseilles:
+    - 41.37
+    - 88.68
+  Mattoon:
+    - 39.48
+    - 88.28
+  Moline/Quad:
+    - 41.45
+    - 90.52
+  Mount Vernon:
+    - 38.32
+    - 88.86
+  Peoria:
+    - 40.67
+    - 89.68
+  Quincy:
+    - 39.93
+    - 91.20
+  Rockford:
+    - 42.20
+    - 89.10
+  Salem:
+    - 38.63
+    - 88.96
+  Scott AFB:
+    - 38.55
+    - 89.85
+  Springfield:
+    - 39.85
+    - 89.67
+  Sterling:
+    - 41.74
+    - 89.67
+  Taylorville:
+    - 39.53
+    - 89.33
+  Vandalia:
+    - 38.99
+    - 89.17
+
+Indiana:
+  Bakalar Af:
+    - 39.38
+    - 86.50
+  Bloomington:
+    - 39.13
+    - 86.62
+  Elkhart:
+    - 41.72
+    - 86.00
+  Evansville:
+    - 38.05
+    - 87.53
+  Fort Wayne:
+    - 41.00
+    - 85.20
+  Gary:
+    - 41.62
+    - 87.42
+  Grissom AFB:
+    - 40.65
+    - 86.15
+  Indianapolis:
+    - 39.73
+    - 86.27
+  Muncie:
+    - 40.23
+    - 85.38
+  South Bend:
+    - 41.70
+    - 86.32
+  Terre Haute:
+    - 39.45
+    - 87.30
+  W Lafayette:
+    - 40.42
+    - 86.93
+
+Iowa:
+  Burlington:
+    - 40.78
+    - 91.12
+  Cedar Rapids:
+    - 41.88
+    - 91.70
+  Des Moines:
+    - 41.53
+    - 93.65
+  Dubuque:
+    - 42.40
+    - 90.70
+  Estherville:
+    - 43.40
+    - 94.75
+  Fort Dodge:
+    - 42.55
+    - 94.18
+  Lamoni:
+    - 40.62
+    - 93.93
+  Mason City:
+    - 43.15
+    - 93.33
+  Ottumwa:
+    - 41.10
+    - 92.45
+  Sioux City:
+    - 42.40
+    - 96.38
+  Spencer:
+    - 43.17
+    - 95.15
+  Waterloo Mun:
+    - 42.55
+    - 92.40
+
+Kansas:
+  Chanute:
+    - 37.67
+    - 95.48
+  Col. J Jabar:
+    - 37.75
+    - 97.22
+  Concordia:
+    - 39.55
+    - 97.65
+  Dodge City:
+    - 37.77
+    - 99.97
+  Elkhart:
+    - 37.00
+    - 101.88
+  Emporia:
+    - 38.33
+    - 96.20
+  Ft Leavnwrth:
+    - 39.37
+    - 94.92
+  Ft Riley:
+    - 39.05
+    - 96.77
+  Garden City:
+    - 37.93
+    - 100.72
+  Goodland:
+    - 39.37
+    - 101.70
+  Hays:
+    - 38.85
+    - 99.27
+  Hill City:
+    - 39.38
+    - 99.83
+  Hutchinson:
+    - 38.07
+    - 97.87
+  Johnson Cnty:
+    - 38.82
+    - 94.88
+  Liberal:
+    - 37.05
+    - 100.97
+  Manhatten:
+    - 39.15
+    - 96.67
+  Mcconnell Af:
+    - 37.62
+    - 97.27
+  Medicine Ldg:
+    - 37.30
+    - 98.58
+  Olathe:
+    - 38.85
+    - 94.90
+  Russell:
+    - 38.87
+    - 98.82
+  Salina:
+    - 38.80
+    - 97.65
+  Topeka:
+    - 39.07
+    - 95.62
+  Topeka/Forbe:
+    - 38.95
+    - 95.67
+  Wichita:
+    - 37.65
+    - 97.43
+
+Kentucky:
+  Bowling Gren:
+    - 36.97
+    - 86.43
+  Ft Campbell:
+    - 36.67
+    - 87.50
+  Ft Knox:
+    - 37.90
+    - 85.97
+  Jackson:
+    - 37.60
+    - 83.32
+  Lexington:
+    - 38.05
+    - 85.00
+  London:
+    - 37.08
+    - 84.07
+  Louisville:
+    - 38.23
+    - 85.67
+  Louisville:
+    - 38.18
+    - 85.73
+  Owensboro:
+    - 37.75
+    - 87.17
+  Paducah:
+    - 37.07
+    - 88.77
+  Pikeville:
+    - 37.48
+    - 82.52
+
+Louisiana:
+  Alexandria:
+    - 31.38
+    - 92.30
+  Barksdale:
+    - 32.50
+    - 93.67
+  Baton Rouge:
+    - 30.53
+    - 91.15
+  Boothville:
+    - 29.55
+    - 89.67
+  Cameron Heli:
+    - 29.78
+    - 93.30
+  Claiborne R:
+    - 31.22
+    - 92.95
+  England AFB:
+    - 31.33
+    - 92.55
+  Eugene Is.:
+    - 28.47
+    - 91.78
+  Fort Polk:
+    - 31.05
+    - 93.20
+  Grand Isle:
+    - 29.18
+    - 90.07
+  High Is:
+    - 28.22
+    - 93.75
+  High Island:
+    - 28.13
+    - 94.40
+  Houma:
+    - 29.57
+    - 90.65
+  Intercoastal:
+    - 29.73
+    - 92.12
+  Lafayette:
+    - 30.20
+    - 92.00
+  Lake Charles:
+    - 30.12
+    - 93.22
+  Lk Palourde:
+    - 29.70
+    - 91.10
+  Missippi Can:
+    - 28.78
+    - 89.05
+  Monroe:
+    - 32.52
+    - 92.05
+  Morgan City:
+    - 29.70
+    - 91.20
+  New Iberia:
+    - 30.03
+    - 91.88
+  New Orleans:
+    - 29.98
+    - 90.25
+  New Orleans:
+    - 29.83
+    - 90.02
+  New Orleans:
+    - 30.03
+    - 90.03
+  S Marsh Isl:
+    - 28.30
+    - 91.98
+  Shreveport:
+    - 32.52
+    - 93.75
+  Shreveport:
+    - 32.47
+    - 93.82
+  Slidel:
+    - 30.35
+    - 89.82
+
+Maine:
+  Augusta:
+    - 44.32
+    - 69.80
+  Bangor:
+    - 44.80
+    - 68.82
+  Bar Harbor:
+    - 44.45
+    - 68.37
+  Brunswick:
+    - 43.88
+    - 69.93
+  Caribou Mun:
+    - 46.87
+    - 68.02
+  Greenville:
+    - 45.45
+    - 69.55
+  Greenville:
+    - 45.78
+    - 69.63
+  Houlton:
+    - 46.13
+    - 67.78
+  Loring AFB:
+    - 46.95
+    - 67.88
+  Portland:
+    - 43.65
+    - 70.32
+  Presque Isle:
+    - 46.68
+    - 68.05
+  Rockland:
+    - 44.07
+    - 69.12
+  Rumford:
+    - 44.88
+    - 70.88
+
+Maryland:
+  Andrews AFB:
+    - 38.82
+    - 76.87
+  Baltimore:
+    - 39.18
+    - 76.67
+  Baltimore:
+    - 39.18
+    - 76.67
+  Baltimore:
+    - 39.33
+    - 76.42
+  Fort Meade:
+    - 39.08
+    - 76.77
+  Hagerstown:
+    - 39.70
+    - 77.72
+  Ocean City:
+    - 38.55
+    - 75.13
+  Patuxent:
+    - 38.28
+    - 76.40
+  Phillips:
+    - 39.47
+    - 76.17
+  Salisbury:
+    - 38.33
+    - 75.50
+
+Massachusetts:
+  Bedford:
+    - 42.47
+    - 71.28
+  Beverly:
+    - 42.58
+    - 70.92
+  Boston:
+    - 42.37
+    - 71.03
+  Cape Cod Can:
+    - 41.78
+    - 70.50
+  Chatham:
+    - 41.67
+    - 69.97
+  Fort Devens:
+    - 42.57
+    - 71.60
+  Hyannis:
+    - 41.67
+    - 70.28
+  Lawrence:
+    - 42.72
+    - 71.12
+  Marthas Vine:
+    - 41.40
+    - 70.62
+  Nantucket:
+    - 41.25
+    - 70.07
+  New Bedford:
+    - 41.68
+    - 70.97
+  Norwood:
+    - 42.18
+    - 71.18
+  Otis ANGB:
+    - 41.65
+    - 70.52
+  Pittsfield:
+    - 42.26
+    - 73.18
+  S Weymouth:
+    - 42.15
+    - 70.93
+  Westfield:
+    - 42.17
+    - 72.72
+  Westover:
+    - 42.20
+    - 72.53
+  Worcester:
+    - 42.27
+    - 71.87
+
+Michigan:
+  Alpena:
+    - 45.07
+    - 83.57
+  Ann Arbor:
+    - 42.22
+    - 83.75
+  Battle Creek:
+    - 42.30
+    - 85.23
+  Benton Harbor:
+    - 42.13
+    - 86.43
+  Chippewa:
+    - 46.25
+    - 84.47
+  Coopersville:
+    - 43.07
+    - 85.95
+  Copper Harb:
+    - 47.47
+    - 87.85
+  Detroit:
+    - 42.42
+    - 83.02
+  Detroit:
+    - 42.23
+    - 83.33
+  Escanaba:
+    - 45.73
+    - 87.08
+  Flint/Bishop:
+    - 42.97
+    - 83.75
+  Grand Rapids:
+    - 42.88
+    - 85.52
+  Hancock:
+    - 47.17
+    - 88.50
+  Harbor Beach:
+    - 43.83
+    - 82.53
+  Houghton Lake:
+    - 44.37
+    - 84.68
+  Iron Mtn:
+    - 45.82
+    - 88.12
+  Ironwood:
+    - 46.53
+    - 90.13
+  Jackson:
+    - 42.27
+    - 84.47
+  Kalamazoo:
+    - 42.23
+    - 85.55
+  Lansing:
+    - 42.77
+    - 84.60
+  Manistee:
+    - 44.27
+    - 86.25
+  Marquette:
+    - 46.88
+    - 87.95
+  Menominee:
+    - 45.12
+    - 87.63
+  Muskegon:
+    - 43.17
+    - 86.25
+  Pellston:
+    - 45.57
+    - 84.80
+  Pontiac:
+    - 42.67
+    - 83.42
+  Saginaw:
+    - 43.53
+    - 84.08
+  Sault Ste M:
+    - 46.47
+    - 84.37
+  Sawyer AFB:
+    - 46.35
+    - 87.40
+  Selfridge:
+    - 42.62
+    - 82.83
+  Seul Choix:
+    - 45.92
+    - 85.92
+  Traverse Cty:
+    - 44.73
+    - 85.58
+  Wurtsmith:
+    - 44.45
+    - 83.40
+  Ypsilanti:
+    - 42.23
+    - 83.53
+
+Minnesota:
+  Albert Lea:
+    - 43.68
+    - 93.37
+  Alexandria:
+    - 45.87
+    - 95.38
+  Bemidji Muni:
+    - 47.50
+    - 94.93
+  Brainerd-Crw:
+    - 46.40
+    - 94.13
+  Detroit Laks:
+    - 46.82
+    - 95.88
+  Duluth:
+    - 46.83
+    - 92.18
+  Ely:
+    - 47.90
+    - 91.82
+  Fairmont:
+    - 43.65
+    - 94.42
+  Fergus Falls:
+    - 46.30
+    - 96.07
+  Grand Rapids:
+    - 47.22
+    - 93.52
+  Hibbing:
+    - 47.38
+    - 92.85
+  Intl Falls:
+    - 48.57
+    - 93.38
+  Litchfield:
+    - 45.13
+    - 94.52
+  Mankato:
+    - 44.22
+    - 93.92
+  Marshall Arpt:
+    - 44.45
+    - 95.82
+  Minneapolis:
+    - 44.83
+    - 93.47
+  Minneapolis:
+    - 45.07
+    - 93.38
+  Minneapolis:
+    - 44.88
+    - 93.22
+  Park Rapids:
+    - 46.90
+    - 95.07
+  Pequot Lake:
+    - 46.60
+    - 94.32
+  Redwood Falls:
+    - 44.55
+    - 95.08
+  Rochester:
+    - 43.92
+    - 92.50
+  Saint Paul:
+    - 44.93
+    - 93.05
+  St Cloud:
+    - 45.55
+    - 94.07
+  Thief River:
+    - 48.07
+    - 96.18
+  Tofte:
+    - 47.58
+    - 90.83
+  Warroad:
+    - 48.93
+    - 95.35
+  Worthington:
+    - 43.65
+    - 95.58
+
+Mississippi:
+  Columbus AFB:
+    - 33.65
+    - 88.45
+  Golden Trian:
+    - 33.45
+    - 88.58
+  Greenville:
+    - 33.48
+    - 90.98
+  Greenwood:
+    - 33.50
+    - 90.08
+  Gulfport:
+    - 30.40
+    - 89.07
+  Hattiesburg:
+    - 31.47
+    - 89.33
+  Jackson:
+    - 32.32
+    - 90.08
+  Keesler AFB:
+    - 30.42
+    - 88.92
+  Laurel:
+    - 31.67
+    - 89.17
+  Mccomb:
+    - 31.18
+    - 90.47
+  Meridian NAS:
+    - 32.55
+    - 88.57
+  Meridian/Key:
+    - 32.33
+    - 88.75
+  Natchez:
+    - 31.62
+    - 91.25
+  Oxford:
+    - 34.39
+    - 89.54
+  Tupelo:
+    - 34.27
+    - 88.77
+
+Missouri:
+  Columbia:
+    - 38.82
+    - 92.22
+  Cp Girardeau:
+    - 37.23
+    - 89.58
+  Ft Leonard:
+    - 37.75
+    - 92.13
+  Jefferson City:
+    - 38.60
+    - 92.17
+  Joplin:
+    - 37.17
+    - 94.50
+  Kansas City:
+    - 39.32
+    - 94.72
+  Kansas City:
+    - 39.12
+    - 94.60
+  Kirksville:
+    - 40.10
+    - 92.55
+  Monett:
+    - 37.33
+    - 94.35
+  Muskogee:
+    - 35.66
+    - 95.36
+  Poplar Bluff:
+    - 36.77
+    - 90.47
+  Richards-Geb:
+    - 38.85
+    - 94.55
+  Spickard:
+    - 40.25
+    - 93.72
+  Springfield:
+    - 37.23
+    - 93.38
+  St Joseph:
+    - 40.28
+    - 95.53
+  St Louis:
+    - 38.75
+    - 90.37
+  StLouis/Spirit:
+    - 38.65
+    - 90.63
+  Vichy/Rolla:
+    - 38.13
+    - 91.77
+  West Plains:
+    - 37.22
+    - 92.42
+  West Plains:
+    - 36.88
+    - 91.90
+  Whiteman AFB:
+    - 38.73
+    - 93.55
+
+Montana:
+  Billings:
+    - 45.80
+    - 108.53
+  Bozeman:
+    - 45.78
+    - 111.15
+  Broadus:
+    - 45.67
+    - 105.67
+  Butte:
+    - 45.95
+    - 112.50
+  Cut Bank:
+    - 48.60
+    - 112.37
+  Dillon:
+    - 45.25
+    - 112.55
+  Drummond:
+    - 46.67
+    - 113.15
+  Glasgow:
+    - 48.22
+    - 106.62
+  Glendive:
+    - 47.13
+    - 104.80
+  Great Falls:
+    - 47.48
+    - 111.37
+  Harlowton:
+    - 46.43
+    - 109.83
+  Havre:
+    - 48.55
+    - 109.77
+  Helena:
+    - 46.60
+    - 112.00
+  Jordan:
+    - 47.33
+    - 106.93
+  Kalispell:
+    - 48.30
+    - 114.27
+  Lewiston:
+    - 47.05
+    - 109.45
+  Livingston:
+    - 45.70
+    - 110.43
+  Malmstrom:
+    - 47.50
+    - 111.18
+  Miles City:
+    - 46.43
+    - 105.87
+  Missoula:
+    - 46.92
+    - 114.08
+  Monida:
+    - 44.57
+    - 112.32
+  Sidney:
+    - 47.72
+    - 104.18
+  Thompson Fal:
+    - 47.60
+    - 115.37
+  W Yellowston:
+    - 44.65
+    - 111.10
+  W Yellowston:
+    - 44.68
+    - 111.12
+  Wolf Point:
+    - 48.10
+    - 105.58
+
+Nebraska:
+  Ainsworth:
+    - 42.58
+    - 99.98
+  Alliance:
+    - 42.05
+    - 102.80
+  Beatrice:
+    - 40.32
+    - 96.75
+  Broken Bow:
+    - 41.43
+    - 99.65
+  Burwell:
+    - 41.78
+    - 99.15
+  Chadron:
+    - 42.83
+    - 103.08
+  Columbus:
+    - 41.45
+    - 97.35
+  Cozad:
+    - 40.87
+    - 100.00
+  Falls City:
+    - 40.07
+    - 95.58
+  Grand Island:
+    - 40.97
+    - 98.32
+  Hastings:
+    - 40.60
+    - 98.43
+  Imperial:
+    - 40.33
+    - 101.39
+  Imperial:
+    - 40.53
+    - 101.63
+  Kearney:
+    - 40.73
+    - 99.00
+  Lincoln Muni:
+    - 40.85
+    - 96.75
+  Mccook:
+    - 40.22
+    - 100.58
+  Mullen:
+    - 42.05
+    - 101.05
+  Norfolk:
+    - 41.98
+    - 97.43
+  North Omaha:
+    - 41.37
+    - 96.02
+  North Platte:
+    - 41.13
+    - 100.68
+  O'neill:
+    - 42.47
+    - 98.68
+  Offutt AFB:
+    - 41.12
+    - 95.92
+  Omaha/Eppley:
+    - 41.30
+    - 95.90
+  Ord/Sharp:
+    - 41.62
+    - 98.95
+  Scottsbluff:
+    - 41.87
+    - 103.60
+  Sidney Muni:
+    - 41.10
+    - 102.98
+  Valentine:
+    - 42.87
+    - 100.55
+
+Nevada:
+  Austin:
+    - 39.83
+    - 117.13
+  Austin:
+    - 39.50
+    - 117.08
+  Battle Mtn:
+    - 40.62
+    - 116.87
+  Caliente:
+    - 37.62
+    - 114.52
+  Elko:
+    - 40.83
+    - 115.78
+  Ely/Yelland:
+    - 39.28
+    - 114.85
+  Eureka:
+    - 39.50
+    - 115.97
+  Fallon NAS:
+    - 39.42
+    - 118.70
+  Hawthorne:
+    - 38.55
+    - 118.63
+  Ind Sprng Rn:
+    - 36.53
+    - 115.57
+  Ind Sprng Rn:
+    - 36.57
+    - 115.67
+  Las Vegas:
+    - 36.08
+    - 115.17
+  Lovelock:
+    - 40.10
+    - 118.92
+  Mercury:
+    - 36.62
+    - 116.02
+  Nellis AFB:
+    - 36.23
+    - 115.03
+  Owyhee:
+    - 42.58
+    - 116.17
+  Reno:
+    - 39.50
+    - 119.78
+  Tonopah:
+    - 38.07
+    - 117.08
+  Wildhorse:
+    - 41.33
+    - 116.25
+  Winnemucca:
+    - 40.90
+    - 117.80
+  Yucca Flat:
+    - 37.58
+    - 116.08
+
+New Hampshire:
+  Berlin:
+    - 44.58
+    - 71.18
+  Concord:
+    - 43.20
+    - 71.50
+  Jaffrey:
+    - 42.80
+    - 72.00
+  Keene:
+    - 42.90
+    - 72.27
+  Laconia:
+    - 43.57
+    - 71.43
+  Lebanon:
+    - 43.63
+    - 72.30
+  Manchester:
+    - 42.93
+    - 71.43
+  Mt Washingtn:
+    - 44.27
+    - 71.30
+  Nashua:
+    - 42.78
+    - 71.52
+  Pease AFB:
+    - 43.08
+    - 70.82
+  Wolfeboro:
+    - 44.00
+    - 71.38
+
+New Jersey:
+  Atlantic Cty:
+    - 39.45
+    - 74.57
+  Barnegat Ls:
+    - 40.28
+    - 74.28
+  Fairfield:
+    - 40.87
+    - 74.28
+  Lakehurst:
+    - 40.03
+    - 74.35
+  Mcguire AFB:
+    - 40.02
+    - 74.60
+  Millville:
+    - 39.37
+    - 75.07
+  Morristown:
+    - 40.80
+    - 74.42
+  Newark Intl:
+    - 40.70
+    - 74.17
+  Teterboro:
+    - 40.85
+    - 74.05
+  Trenton:
+    - 40.28
+    - 74.82
+
+New Mexico:
+  Albuquerque:
+    - 35.05
+    - 106.60
+  Cannon:
+    - 34.38
+    - 103.32
+  Carlsbad:
+    - 32.33
+    - 104.27
+  Clayton Arpt:
+    - 36.45
+    - 103.15
+  Corona:
+    - 34.10
+    - 105.68
+  Cuba Awrs:
+    - 36.02
+    - 106.95
+  Deming:
+    - 32.25
+    - 107.70
+  Farmington:
+    - 36.75
+    - 108.23
+  Gallup/Clark:
+    - 35.52
+    - 108.78
+  Grants:
+    - 35.17
+    - 107.90
+  Hobbs:
+    - 32.68
+    - 103.20
+  Holloman AFB:
+    - 32.85
+    - 106.10
+  Las Cruces:
+    - 32.30
+    - 106.77
+  Las Vegas:
+    - 35.65
+    - 105.15
+  Los Alamos:
+    - 35.88
+    - 106.28
+  Moriarity:
+    - 34.98
+    - 106.05
+  Northrup Str:
+    - 32.90
+    - 106.40
+  Raton:
+    - 36.74
+    - 104.50
+  Roswell:
+    - 33.30
+    - 104.53
+  Santa Fe:
+    - 35.62
+    - 106.08
+  Silver City:
+    - 32.63
+    - 108.17
+  Socorro:
+    - 34.07
+    - 106.90
+  Taos:
+    - 36.42
+    - 105.57
+  Truth Or Con:
+    - 33.23
+    - 107.27
+  Tucumcari:
+    - 35.18
+    - 103.60
+  White Sands:
+    - 32.63
+    - 106.40
+
+New York:
+  Albany:
+    - 42.75
+    - 73.80
+  Ambrose:
+    - 40.75
+    - 74.37
+  Binghamton:
+    - 42.22
+    - 75.98
+  Buffalo:
+    - 42.93
+    - 78.73
+  Dansville:
+    - 42.97
+    - 78.20
+  Elmira:
+    - 42.17
+    - 76.90
+  Farmingdale:
+    - 40.73
+    - 73.43
+  Fort Drum:
+    - 44.05
+    - 75.73
+  Glens Falls:
+    - 43.35
+    - 73.62
+  Griffiss AFB:
+    - 43.23
+    - 75.40
+  Islip:
+    - 40.78
+    - 73.10
+  Ithaca:
+    - 42.48
+    - 76.47
+  Jamestown:
+    - 42.15
+    - 79.25
+  Massena:
+    - 44.93
+    - 74.85
+  Monticello:
+    - 41.70
+    - 74.80
+  New York:
+    - 40.77
+    - 73.98
+  Newburgh:
+    - 41.50
+    - 74.10
+  Niagara Fall:
+    - 43.10
+    - 78.95
+  Ogdensburg:
+    - 44.68
+    - 75.40
+  Oneonta:
+    - 42.87
+    - 75.12
+  Plattsburgh:
+    - 44.65
+    - 73.47
+  Poughkeepsie:
+    - 41.63
+    - 73.88
+  Rochester:
+    - 43.12
+    - 77.67
+  Rochester:
+    - 43.12
+    - 77.67
+  Saranac Lk:
+    - 44.38
+    - 74.20
+  Schenectady:
+    - 42.85
+    - 73.93
+  Syracuse:
+    - 43.12
+    - 76.12
+  Utica:
+    - 43.15
+    - 75.38
+  Watertown:
+    - 44.00
+    - 76.02
+  Westhampton:
+    - 40.85
+    - 72.63
+  White Plains:
+    - 41.07
+    - 73.72
+
+North Carolina:
+  Asheville:
+    - 35.43
+    - 82.55
+  Cape Hattera:
+    - 35.27
+    - 75.55
+  Charlotte:
+    - 35.22
+    - 80.93
+  Cherry Point:
+    - 34.90
+    - 76.88
+  Dare Co Gr:
+    - 36.13
+    - 76.50
+  Diamond Sho:
+    - 35.25
+    - 75.50
+  Elizabeth:
+    - 36.27
+    - 76.18
+  Fayetteville:
+    - 35.00
+    - 78.88
+  Fort Bragg:
+    - 35.13
+    - 78.93
+  Greensboro:
+    - 36.08
+    - 79.95
+  Hickory:
+    - 35.75
+    - 81.38
+  Hot Springs:
+    - 35.90
+    - 82.82
+  Jacksonville:
+    - 34.82
+    - 77.62
+  Kinston:
+    - 35.32
+    - 77.63
+  Mackall Aaf:
+    - 35.03
+    - 79.50
+  Manteo Arpt:
+    - 35.92
+    - 75.68
+  New Bern:
+    - 35.08
+    - 77.05
+  New River:
+    - 34.70
+    - 77.43
+  Pope AFB:
+    - 35.17
+    - 79.02
+  Raleigh-Durh:
+    - 35.87
+    - 78.78
+  Rocky Mt:
+    - 35.85
+    - 77.88
+  Seymour-John:
+    - 35.33
+    - 77.97
+  Southern Pin:
+    - 35.24
+    - 79.39
+  Wilmington:
+    - 34.27
+    - 77.92
+  Winston-Salem:
+    - 36.13
+    - 80.23
+
+North Dakota:
+  Bismarck:
+    - 46.77
+    - 100.75
+  Devil's Lake:
+    - 48.12
+    -  98.90
+  Devil's Lake:
+    - 48.10
+    -  98.87
+  Dickenson:
+    - 46.78
+    - 102.80
+  Fargo:
+    - 46.90
+    -  96.80
+  Grand Forks:
+    - 47.95
+    -  97.18
+  Grand Forks:
+    - 47.97
+    -  97.40
+  Jamestown:
+    - 46.92
+    -  98.68
+  Lidgerwood:
+    - 46.10
+    -  97.15
+  Minot AFB:
+    - 48.42
+    - 101.35
+  Minot Intl:
+    - 48.27
+    - 101.28
+  Roseglen:
+    - 47.75
+    - 101.83
+  Williston:
+    - 48.18
+    - 103.63
+
+Ohio:
+  Athens/Albany,OH:
+    - 39.21
+    - 82.23
+  Canton,OH:
+    - 40.92
+    - 81.43
+  Cincinnati,OH:
+    - 39.05
+    - 84.67
+  Cincinnati,OH:
+    - 39.10
+    - 84.43
+  Cleveland,OH:
+    - 41.52
+    - 81.68
+  Cleveland,OH:
+    - 41.57
+    - 81.48
+  Cleveland,OH:
+    - 41.42
+    - 81.87
+  Columbus,OH:
+    - 40.00
+    - 82.88
+  Columbus Osu,OH:
+    - 40.08
+    - 83.07
+  Dayton,OH:
+    - 39.90
+    - 84.20
+  Findlay,OH:
+    - 41.02
+    - 83.67
+  Mansfield,OH:
+    - 40.82
+    - 82.52
+  Rickenbacker,OH:
+    - 39.82
+    - 82.93
+  Toledo,OH:
+    - 41.60
+    - 83.80
+  Willoughby,OH:
+    - 41.63
+    - 81.40
+  Wright-Pat AFB,OH:
+    - 39.83
+    - 84.05
+  Youngstown,OH:
+    - 41.27
+    - 80.67
+  Zanesville,OH:
+    - 39.95
+    - 81.90
+
+Oklahoma:
+  Altus AFB:
+    - 34.67
+    - 99.27
+  Ardmore:
+    - 34.30
+    - 97.02
+  Bartlesville:
+    - 36.75
+    - 96.00
+  Clinton:
+    - 35.35
+    - 99.20
+  Enid:
+    - 36.38
+    - 97.80
+  Fort Sill:
+    - 34.65
+    - 98.40
+  Gage:
+    - 36.30
+    - 99.77
+  Hobart:
+    - 35.00
+    - 99.05
+  Lawton:
+    - 34.57
+    - 98.42
+  Mcalester:
+    - 34.88
+    - 95.78
+  Norman:
+    - 35.23
+    - 97.47
+  Oklahoma Cty:
+    - 35.40
+    - 97.60
+  Oklahoma Cty:
+    - 35.53
+    - 97.65
+  Page:
+    - 34.68
+    - 94.62
+  Ponca City:
+    - 36.73
+    - 97.10
+  Stillwater:
+    - 36.16
+    - 97.09
+  Tinker AFB:
+    - 35.42
+    - 97.38
+  Tulsa:
+    - 36.20
+    - 95.90
+  Vance AFB:
+    - 36.33
+    - 97.92
+
+Oregon:
+  Astoria:
+    - 46.15
+    - 123.88
+  Aurora:
+    - 45.25
+    - 122.75
+  Baker:
+    - 44.83
+    - 117.82
+  Brookings:
+    - 42.08
+    - 124.47
+  Burns Arpt:
+    - 43.60
+    - 118.95
+  Cape Blanco:
+    - 43.38
+    - 124.95
+  Cascade:
+    - 45.68
+    - 121.88
+  Corvallis:
+    - 44.50
+    - 123.28
+  Eugene:
+    - 44.12
+    - 123.22
+  Hillsboro:
+    - 45.53
+    - 122.95
+  Klamath Fall:
+    - 42.15
+    - 121.73
+  La Grande:
+    - 45.28
+    - 118.00
+  Lake View:
+    - 42.18
+    - 120.35
+  Meacham:
+    - 45.50
+    - 118.40
+  Medford:
+    - 42.37
+    - 122.87
+  Newport:
+    - 44.63
+    - 124.05
+  North Bend:
+    - 43.42
+    - 124.25
+  Ontario:
+    - 44.02
+    - 117.02
+  Pendleton:
+    - 45.68
+    - 118.85
+  Portland:
+    - 45.60
+    - 122.60
+  Redmond:
+    - 44.27
+    - 121.15
+  Roseburg:
+    - 43.23
+    - 123.37
+  Salem:
+    - 44.92
+    - 123.00
+  Sexton:
+    - 42.62
+    - 123.37
+  The Dalles:
+    - 45.62
+    - 121.15
+  Troutdale:
+    - 45.55
+    - 122.40
+
+Pennsylvania:
+  Allentown:
+    - 40.65
+    - 75.43
+  Altoona:
+    - 40.30
+    - 78.32
+  Beaver Falls:
+    - 40.75
+    - 80.33
+  Blairsville:
+    - 40.27
+    - 79.09
+  Bradford:
+    - 41.80
+    - 78.63
+  Dubois:
+    - 41.18
+    - 78.90
+  Erie:
+    - 42.08
+    - 80.18
+  Franklin:
+    - 41.38
+    - 79.87
+  Harrisburg:
+    - 40.22
+    - 76.85
+  Harrisburg:
+    - 40.37
+    - 77.42
+  Johnstown:
+    - 40.32
+    - 78.83
+  Lancaster:
+    - 40.13
+    - 76.30
+  Latrobe:
+    - 40.28
+    - 79.40
+  Middletown:
+    - 40.20
+    - 76.77
+  Muir:
+    - 40.43
+    - 76.57
+  Nth Philadel:
+    - 40.08
+    - 75.02
+  Philadelphia:
+    - 39.88
+    - 75.25
+  Philipsburg:
+    - 41.47
+    - 78.13
+  Pittsburgh:
+    - 40.35
+    - 79.93
+  Pittsburgh:
+    - 40.50
+    - 80.22
+  Reading:
+    - 40.38
+    - 75.97
+  Site R:
+    - 39.73
+    - 77.43
+  State Colleg:
+    - 40.85
+    - 77.83
+  Wilkes-Barre:
+    - 41.33
+    - 75.73
+  Williamsport:
+    - 41.25
+    - 76.92
+  Willow Grove:
+    - 40.20
+    - 75.15
+
+Rhode Island:
+  Block Island:
+    - 41.17
+    - 71.58
+  Nth Kingston:
+    - 41.60
+    - 71.42
+  Providence:
+    - 41.73
+    - 71.43
+  Quonset Pt NAS:
+    - 41.36
+    - 71.25
+
+South Carolina:
+  Anderson:
+    - 34.50
+    - 82.72
+  Beaufort Mca:
+    - 32.48
+    - 80.72
+  Charleston:
+    - 32.90
+    - 80.03
+  Columbia:
+    - 33.95
+    - 81.12
+  Florence:
+    - 34.18
+    - 79.72
+  Greenville:
+    - 34.85
+    - 82.35
+  Greenville:
+    - 34.90
+    - 82.22
+  Mcentire:
+    - 33.92
+    - 80.80
+  Myrtle Beach:
+    - 33.68
+    - 78.93
+  Nth Myrtle B:
+    - 33.82
+    - 78.72
+  Shaw AFB:
+    - 33.97
+    - 80.47
+  Spartanburg:
+    - 34.92
+    - 81.96
+
+South Dakota:
+  Aberdeen:
+    - 45.45
+    - 98.43
+  Brookings:
+    - 44.30
+    - 96.80
+  Chamberlain:
+    - 43.80
+    - 99.32
+  Chamberlain:
+    - 43.75
+    - 99.32
+  Custer:
+    - 43.77
+    - 103.60
+  Ellsworth Af:
+    - 44.15
+    - 103.10
+  Huron:
+    - 44.38
+    - 98.22
+  Lemmon:
+    - 45.93
+    - 102.17
+  Mitchell:
+    - 43.77
+    - 98.03
+  Mobridge:
+    - 45.53
+    - 100.43
+  Philip:
+    - 44.05
+    - 101.60
+  Philip:
+    - 44.05
+    - 101.60
+  Pierre:
+    - 44.38
+    - 100.28
+  Rapid City:
+    - 44.05
+    - 103.07
+  Redig:
+    - 45.16
+    - 103.32
+  Sioux Falls:
+    - 43.58
+    - 96.73
+  Watertown:
+    - 44.92
+    - 97.15
+  Yankton:
+    - 42.92
+    - 97.38
+
+Tennessee:
+  Bristol:
+    - 36.48
+    - 82.40
+  Chattanooga:
+    - 35.03
+    - 85.20
+  Clarksville:
+    - 36.62
+    - 87.42
+  Crossville:
+    - 35.95
+    - 85.08
+  Dyersburg:
+    - 36.02
+    - 89.40
+  Jackson:
+    - 35.60
+    - 88.92
+  Knoxville:
+    - 35.82
+    - 83.98
+  Memphis Intl:
+    - 35.05
+    - 90.00
+  Memphis NAS:
+    - 35.35
+    - 89.87
+  Monteagle:
+    - 35.15
+    - 85.51
+  Nashville:
+    - 36.12
+    - 86.68
+  Smyrna:
+    - 36.00
+    - 86.50
+
+Texas:
+  Abilene:
+    - 32.42
+    - 99.68
+  Alice:
+    - 27.73
+    - 98.03
+  Amarillo:
+    - 35.23
+    - 101.70
+  Austin:
+    - 30.30
+    - 97.70
+  Bergstrom Af:
+    - 30.20
+    - 97.68
+  Big Sky:
+    - 32.39
+    - 101.48
+  Big Spring:
+    - 32.30
+    - 101.45
+  Brownsville:
+    - 25.90
+    - 97.43
+  Brownwood:
+    - 31.79
+    - 98.96
+  Carswell AFB:
+    - 32.78
+    - 97.43
+  Chase NAS:
+    - 28.37
+    - 97.67
+  Childress:
+    - 34.43
+    - 100.28
+  College Stn:
+    - 30.58
+    - 96.37
+  Corpus Chrst:
+    - 27.77
+    - 97.50
+  Corpus Chrst:
+    - 27.70
+    - 97.28
+  Cotulla:
+    - 28.45
+    - 99.22
+  D.w. Hooks:
+    - 30.07
+    - 95.55
+  Dalhart:
+    - 36.02
+    - 102.55
+  Dallas NAS:
+    - 32.73
+    - 96.97
+  Dallas/Addis:
+    - 32.97
+    - 96.83
+  Dallas/FW:
+    - 32.90
+    - 97.03
+  Dallas/Love:
+    - 32.85
+    - 96.85
+  Dallas/Redbr:
+    - 32.68
+    - 96.87
+  Del Rio:
+    - 29.37
+    - 100.92
+  Dyess AFB:
+    - 32.43
+    - 99.85
+  El Paso:
+    - 31.80
+    - 106.40
+  Ellington Af:
+    - 29.62
+    - 95.17
+  Fort Worth:
+    - 32.82
+    - 97.35
+  Ft Hood Aaf:
+    - 31.15
+    - 97.72
+  Galveston:
+    - 29.27
+    - 94.87
+  Gray AFB:
+    - 31.07
+    - 97.83
+  Greenville:
+    - 33.07
+    - 96.07
+  Guadalupe Ps:
+    - 31.83
+    - 104.80
+  Harlingen:
+    - 26.23
+    - 97.67
+  Hondo:
+    - 29.35
+    - 99.17
+  Houston:
+    - 29.97
+    - 95.35
+  Houston/Hobby:
+    - 29.65
+    - 95.28
+  Junction:
+    - 30.50
+    - 99.77
+  Kelly AFB:
+    - 29.38
+    - 98.58
+  Kerrville:
+    - 29.98
+    - 99.08
+  Killeen:
+    - 31.08
+    - 97.68
+  Kingsville:
+    - 27.50
+    - 97.82
+  Laredo Intl:
+    - 27.53
+    - 99.47
+  Laughlin AFB:
+    - 29.37
+    - 100.78
+  Longview:
+    - 32.38
+    - 94.72
+  Lubbock:
+    - 33.65
+    - 101.82
+  Lufkin:
+    - 31.23
+    - 94.75
+  Marfa:
+    - 30.37
+    - 104.02
+  Mcallen:
+    - 26.18
+    - 98.23
+  Midland:
+    - 31.95
+    - 102.18
+  Mineral Wlls:
+    - 32.78
+    - 98.07
+  Palacios:
+    - 28.72
+    - 96.25
+  Paris/Cox:
+    - 33.63
+    - 95.45
+  Plainview:
+    - 34.17
+    - 101.71
+  Port Arthur:
+    - 30.58
+    - 94.02
+  Randolph AFB:
+    - 29.53
+    - 98.28
+  Reese AFB:
+    - 33.60
+    - 102.05
+  Rockport:
+    - 28.08
+    - 97.03
+  San Angelo:
+    - 31.37
+    - 100.50
+  San Antonio:
+    - 29.53
+    - 98.47
+  San Antonio:
+    - 29.33
+    - 98.47
+  Sanderson:
+    - 30.17
+    - 102.42
+  Sherman-Deni:
+    - 33.72
+    - 96.67
+  South Brazos:
+    - 28.03
+    - 95.87
+  Stephenville:
+    - 32.22
+    - 98.18
+  Temple:
+    - 31.15
+    - 97.42
+  Tyler/Pounds:
+    - 32.37
+    - 95.40
+  Victoria:
+    - 28.85
+    - 96.92
+  Waco-Madison:
+    - 31.62
+    - 97.22
+  Wichita Flls:
+    - 33.98
+    - 98.50
+  Wink:
+    - 31.78
+    - 103.20
+
+Utah:
+  Blanding:
+    - 38.03
+    - 109.78
+  Bullfrog Mar:
+    - 37.50
+    - 110.70
+  Cedar City:
+    - 37.70
+    - 113.10
+  Delta:
+    - 39.33
+    - 112.58
+  Dugway Prvgr:
+    - 40.20
+    - 112.93
+  Eagle Range:
+    - 41.05
+    - 113.07
+  Green River:
+    - 39.00
+    - 110.15
+  Hanksville:
+    - 38.37
+    - 110.72
+  Hill AFB:
+    - 41.12
+    - 111.97
+  Logan:
+    - 41.78
+    - 111.85
+  Milford:
+    - 38.72
+    - 113.03
+  Moab:
+    - 38.77
+    - 109.75
+  Ogden:
+    - 41.18
+    - 112.02
+  Price/Carbon:
+    - 39.62
+    - 110.75
+  Provo:
+    - 40.22
+    - 111.72
+  Roosevelt:
+    - 40.50
+    - 110.63
+  Saint George:
+    - 37.08
+    - 113.60
+  Salt Lake Ct:
+    - 40.78
+    - 111.97
+  Tooele:
+    - 40.17
+    - 112.20
+  Vernal:
+    - 40.45
+    - 109.52
+  Wendover:
+    - 41.22
+    - 114.05
+
+Vermont:
+  Burlington:
+    - 44.47
+    - 73.15
+  Montpelier:
+    - 44.20
+    - 72.57
+  Newport:
+    - 45.55
+    - 72.33
+  Rutland:
+    - 43.53
+    - 73.95
+  St Johnsbury:
+    - 44.42
+    - 72.02
+  Wilmington:
+    - 42.88
+    - 72.88
+
+Virginia:
+  Charlottesvi:
+    - 38.13
+    - 78.45
+  Chesapeake:
+    - 37.50
+    - 76.20
+  Danville:
+    - 36.57
+    - 79.33
+  Fort Belvoir:
+    - 38.72
+    - 77.18
+  Fort Eustis:
+    - 37.13
+    - 76.62
+  Hot Springs:
+    - 37.95
+    - 79.82
+  Langley AFB:
+    - 37.08
+    - 76.37
+  Lynchburg:
+    - 37.33
+    - 79.20
+  Newport News:
+    - 37.13
+    - 76.50
+  Norfolk NAS:
+    - 36.93
+    - 76.28
+  Norfolk Rgnl:
+    - 36.90
+    - 76.20
+  Oceana NAS:
+    - 36.82
+    - 76.03
+  Quantico Mca:
+    - 38.50
+    - 77.30
+  Richmond:
+    - 37.50
+    - 77.33
+  Roanoke Muni:
+    - 37.32
+    - 79.97
+  Staunton:
+    - 38.27
+    - 78.85
+  Volens:
+    - 36.95
+    - 78.98
+  Wallops Sta:
+    - 37.85
+    - 75.48
+
+Washington:
+  Bellingham:
+    - 48.80
+    - 122.53
+  Bremerton:
+    - 47.48
+    - 122.77
+  Burlington:
+    - 48.50
+    - 122.33
+  Colville:
+    - 48.88
+    - 118.47
+  Ephrata:
+    - 47.32
+    - 119.52
+  Everet/Paine:
+    - 47.92
+    - 122.28
+  Fairchild:
+    - 47.62
+    - 117.65
+  Fort Lewis:
+    - 47.08
+    - 122.58
+  Hanford:
+    - 46.57
+    - 119.60
+  Hoquiam:
+    - 46.97
+    - 123.97
+  Mcchord AFB:
+    - 47.15
+    - 122.48
+  Moses Lake:
+    - 47.20
+    - 119.32
+  Oak Harbor:
+    - 48.25
+    - 122.68
+  Olympia:
+    - 46.97
+    - 122.90
+  Omak:
+    - 48.42
+    - 119.53
+  Pasco:
+    - 46.27
+    - 119.12
+  Port Angeles:
+    - 48.12
+    - 123.50
+  Port Angeles:
+    - 48.22
+    - 123.67
+  Pullman:
+    - 46.75
+    - 117.12
+  Quillayute:
+    - 47.95
+    - 124.55
+  Renton:
+    - 47.50
+    - 122.22
+  Seattle:
+    - 47.45
+    - 122.30
+  Seattle/Boeing:
+    - 47.53
+    - 122.30
+  Shelton:
+    - 47.25
+    - 123.15
+  Spokane:
+    - 47.63
+    - 117.53
+  Spokane:
+    - 47.67
+    - 117.33
+  Stampede Pas:
+    - 47.28
+    - 121.33
+  Tacoma:
+    - 47.27
+    - 122.58
+  Toledo:
+    - 46.48
+    - 122.80
+  Walla Walla:
+    - 46.10
+    - 118.28
+  Wenatchee:
+    - 47.40
+    - 120.20
+  Whidbey Is:
+    - 48.35
+    - 122.65
+  Yakima:
+    - 46.57
+    - 120.53
+
+West Virginia:
+  Beckley:
+    - 37.78
+    - 81.12
+  Bluefield:
+    - 37.30
+    - 81.22
+  Charleston:
+    - 38.37
+    - 81.60
+  Clarksburg:
+    - 39.28
+    - 80.23
+  Elkins:
+    - 38.88
+    - 79.85
+  Huntington:
+    - 38.37
+    - 82.55
+  Lewisburg:
+    - 37.87
+    - 80.40
+  Martinsburg:
+    - 39.40
+    - 77.98
+  Morgantown:
+    - 39.65
+    - 79.92
+  Parkersburg:
+    - 39.35
+    - 81.43
+  Wheeling:
+    - 40.18
+    - 80.65
+  White Sulph:
+    - 37.46
+    - 80.20
+
+Wisconsin:
+  Appleton:
+    - 44.25
+    - 88.52
+  Eau Claire:
+    - 44.87
+    - 91.48
+  Green Bay:
+    - 44.48
+    - 88.13
+  Janesville:
+    - 42.62
+    - 89.03
+  La Crosse:
+    - 43.87
+    - 91.25
+  Lone Rock:
+    - 43.20
+    - 90.18
+  Madison:
+    - 43.13
+    - 89.33
+  Manitowac:
+    - 44.13
+    - 87.67
+  Milwaukee:
+    - 42.95
+    - 87.90
+  Milwaukee:
+    - 43.12
+    - 88.05
+  Mosinee:
+    - 44.78
+    - 89.67
+  Neenah:
+    - 44.22
+    - 88.53
+  Oshkosh:
+    - 44.00
+    - 88.57
+  Rhinelander:
+    - 45.63
+    - 89.45
+  Rice Lake:
+    - 45.48
+    - 91.72
+  Volk Fld:
+    - 43.93
+    - 90.27
+  Wausau:
+    - 44.92
+    - 89.62
+
+Wyoming:
+  Big Piney:
+    - 42.57
+    - 110.10
+  Casper:
+    - 42.92
+    - 106.47
+  Cheyenne:
+    - 41.15
+    - 104.82
+  Cody:
+    - 44.52
+    - 109.02
+  Douglas:
+    - 42.75
+    - 105.38
+  Evanston:
+    - 41.33
+    - 111.00
+  Gillette:
+    - 44.35
+    - 105.53
+  Jackson:
+    - 43.60
+    - 110.73
+  Lander:
+    - 42.82
+    - 108.73
+  Laramie:
+    - 41.32
+    - 105.68
+  Moorcroft:
+    - 44.35
+    - 104.81
+  Rawlins:
+    - 41.80
+    - 107.20
+  Riverton:
+    - 43.05
+    - 108.45
+  Rock Springs:
+    - 41.60
+    - 109.07
+  Sheridan:
+    - 44.77
+    - 106.97
+  Worland:
+    - 43.97
+    - 107.97
+  Yellowstone:
+    - 44.55
+    - 110.42
