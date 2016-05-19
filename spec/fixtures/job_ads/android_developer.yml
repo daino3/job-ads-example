@@ -1,20 +1,21 @@
-company_name: Lookback
+company: Lookback
 
 title: Lead Android Developer
 
-position: Contractor
+city_and_state: San Francisco, California
+
+employment_type: Part time
+
+job_function: Engineering
+
+experience: Senior level
 
 compensation: "$100,000 - 130,000 / Provides Equity"
 
-location: San Francisco, CA
-
 job_description:
   "We're on a mission to help the world build better user experiences. Our job is to help our users understand their customers: we're answering the why of good design. Working with us, you'd help improve the best user experiences in the world, including those made by Facebook, Uber, Netflix, Spotify and thousands of others.
-
   And now we’re looking for you, our Lead Android Developer, who’ll come in and play a defining role in the development of our product on the Android platform.
-
   We’re looking for hearts and skills. For passion and drive. We’re looking for the humble, who knows how to lead but also to be led. We’re looking for you to teach us things, but also be taught. We believe in personal growth, transparency, creativity and intuition, coupled with results, achievements and success. You’re applying to us because you believe in Lookback and what we do, why we do it, and you want to help get us there.
-
   We’re primarily looking for you to work full time with us from Menlo Park or San Francisco, yet we are open to consider outstanding individuals who’ll work from anywhere in the world. If you're not local and not willing to relocate, having worked remotely in the past is a must, as well as having worked at startups or larger tech companies in the past."
 
 company_description:
@@ -26,8 +27,7 @@ company_description:
 
   Read about our culture and story.
 
-  We're offering:
-
+benefits:
   Equity in a quickly growing startup with massive potential
   Great salary
   Health/vision/dental insurance (U.S) for you and your dependents
@@ -37,7 +37,7 @@ company_description:
   Paid time to learn and improve your skills
   A dynamic work environment, with the ability to work with multiple and changing disciplines and objectives.
 
-skills_and_requirements:
+requirements:
   "We don’t really believe in titles. We think they restrict us into thinking inside the box, and hinder creativity and collaboration. But we value experience and knowledge. Specifically, we're looking for someone with:
 
   Published examples of your Android apps in the Play Store

@@ -2,20 +2,22 @@ company: Telular Corporation
 
 title: Software Engineer
 
-experience: Mid-Senior level
+city_and_state: Chicago, Illinois
 
 job_function: Engineering
 
-industry: Telecommunications and Computer Software
+employment_type: Full-time
 
-location: TBD
+experience: 8-10 years
+
+industry: Telecommunications and Computer Software
 
 job_description:
   Telular Corporation, a leader in IoT and wireless technology, provides security, home automation, asset tracking, and remote inventory solutions for business and residential customers. For over 30 years, Telular has been providing connectivity solutions that allow people and machines to work together.
 
   The Software Engineer will be responsible for the design, implementation and unit testing of Windows server based applications.  Responsible for architecture and requirements definition, implementation and development of service oriented solutions.
 
-Responsibilities:
+responsibilities:
   Develop requirements and assist with architecture definition for new product development.
   Design and implement Windows Server-based applications for TankLink's real time transaction processing system, using applicable coding standards.
   Analyze existing code to locate defects, determine their cause, and implement solutions.
@@ -26,7 +28,7 @@ Responsibilities:
   Work closely with hardware and firmware experts to ensure a seamless product development and delivery cycle.
   Provide guidance and mentoring to other engineers, and “lead by example” with respect to quality and schedule awareness.
 
-Requirements:
+requirements:
   Practical application of C#, WCF, SOA, OOD, RESTful services and ASP.NET.
   A Bachelor’s degree in Computer Science required, Master’s Degree preferred.
   4+ years development experience on a Microsoft Server environment is required.

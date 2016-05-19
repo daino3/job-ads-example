@@ -1,47 +1,48 @@
-company_name: "Pathfinder Software LLC"
+company: "Pathfinder Software LLC"
 
 title: IOS Developer
 
-position: Contractor
+city_and_state: Chicago, Illinois
 
-location: Chicago, IL
+employment_type: Part time
+
+job_function: Engineering
+
+Experience: Mid-Senior level
 
 job_description:
   "Pathfinder helps medical device firms leverage technology to create new products that achieve better, cost effective health outcomes. We save time by driving out patient, design, and requirements risk before development. Using automation and Verification Driven Development, we cut time and cost from projects.
 
-    Pathfinder has been an agile shop since 1990, utilizing scrum, agile UX and other agile practices to create efficient teams. This allows us to develop FDA and HIPAA compliant systems in a more pleasant environment.
+  Pathfinder has been an agile shop since 1990, utilizing scrum, agile UX and other agile practices to create efficient teams. This allows us to develop FDA and HIPAA compliant systems in a more pleasant environment.
 
-    We are looking for experienced contractors to join our team."
+  We are looking for experienced contractors to join our team."
 
 company_description:
   "Pathfinder helps medical device firms leverage technology to create new products that achieve better, cost effective health outcomes. We save time by driving out patient, design, and requirements risk before development. Using automation and Verification Driven Development, we cut time and cost from projects.
 
-    Pathfinder has been an agile shop since 1990, utilizing scrum, agile UX and other agile practices to create efficient teams."
+  Pathfinder has been an agile shop since 1990, utilizing scrum, agile UX and other agile practices to create efficient teams."
 
-skills_and_requirements:
+skills:
+  "Design and architect mobile solutions to access web services and websocket-based API's
+  Develop prototypes
+  Evaluate new technologies
+  Contribute to authoring requirements docs, such as user stories, acceptance criteria and FURPS+ matrices
+  Develop features according to user stories using TDD
+  Contribute maintaining CI and testing environments
+  Participate in all agile activities - standups, IPM's, retrospectives, pair programming, etc.
+  Receive FDA and HIPAA training
+  Develop software according to FDA, EU and HIPAA standards and processes"
 
-  Skills:
-
-    "Design and architect mobile solutions to access web services and websocket-based API's
-    Develop prototypes
-    Evaluate new technologies
-    Contribute to authoring requirements docs, such as user stories, acceptance criteria and FURPS+ matrices
-    Develop features according to user stories using TDD
-    Contribute maintaining CI and testing environments
-    Participate in all agile activities - standups, IPM's, retrospectives, pair programming, etc.
-    Receive FDA and HIPAA training
-    Develop software according to FDA, EU and HIPAA standards and processes"
-  Requirements:
-
+requirements:
   "The contractor will be part of a cross-functional team developing multi-interface systems -- web, mobile, desktop -- architected on top of web service and web socket based API's. Candidates should have the following skills:
 
-    At least two years experience developing iOS. Experience with Android a big plus
-    Solid experience and working knowledge of Bluetooth (BLE and Classic)
-    Solid OOAD skills
-    FDA experience a plus
-    HIPAA experience a plus
-    TDD/Unit testing experience
-    Agile experience
-    Excellent understanding of web API's, web sockets, JSON, XML and related technologies"
+  At least two years experience developing iOS. Experience with Android a big plus
+  Solid experience and working knowledge of Bluetooth (BLE and Classic)
+  Solid OOAD skills
+  FDA experience a plus
+  HIPAA experience a plus
+  TDD/Unit testing experience
+  Agile experience
+  Excellent understanding of web API's, web sockets, JSON, XML and related technologies"
 
 benefits: Work from home 2-3 days per week.

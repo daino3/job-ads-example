@@ -1,10 +1,14 @@
-company_name: "QuikOrder"
+company: "QuikOrder"
 
 title: "Full Stack Engineer"
 
-position: Contractor
+city_and_state: Chicago, Illinois
 
-location: Chicago, IL
+employment_type: Part time
+
+job_function: Engineering
+
+experience: Mid-Senior level
 
 job_description:
   "We seek Full Stack Engineers to extend our platform and help migrate a global restaurant chain to our new node-based backend.
@@ -14,30 +18,28 @@ company_description:
   "QuikOrder is a food commerce platform used by businesses of all sizes - from your local restaurant to large global chains.
   We offer end-to-end omnichannel solutions that enable our clients to digitally engage with their customers. Well over 100,000 people order food via our platform each and every day."
 
-skills_and_requirements:
-  Responsibilities:
+requirements:
+  Bachelor’s degree in Computer Science or equivalent experience
+  Extensive experience building object oriented PHP applications
+  Experience building rich applications using AngularJS
+  Experience building and consuming RESTful services
+  Expert knowledge of JavaScript
+  Expertise with unit testing & Test Driven Development (TDD)
+  Working knowledge of SQL
+  Ability to work both independently and as part of a team
 
-    Build applications using AngularJS and PHP
-    Architect, design, and implement new features
-    Refactor and extend existing applications
-    Migrate existing applications to a new Node-based backend
+responsibilities:
+  Build applications using AngularJS and PHP
+  Architect, design, and implement new features
+  Refactor and extend existing applications
+  Migrate existing applications to a new Node-based backend
 
-  Requirements:
-    Bachelor’s degree in Computer Science or equivalent experience
-    Extensive experience building object oriented PHP applications
-    Experience building rich applications using AngularJS
-    Experience building and consuming RESTful services
-    Expert knowledge of JavaScript
-    Expertise with unit testing & Test Driven Development (TDD)
-    Working knowledge of SQL
-    Ability to work both independently and as part of a team
-
-  nice_to_have:
-    A portfolio of responsive websites you built
-    Experience with Content Management Systems
-    Experience with CodeIgniter
-    Experience working with agile methodologies
-    Ecommerce experience
-    Have social proof of your passion for software development (blog, side projects, community involvement)
+nice_to_have:
+  A portfolio of responsive websites you built
+  Experience with Content Management Systems
+  Experience with CodeIgniter
+  Experience working with agile methodologies
+  Ecommerce experience
+  Have social proof of your passion for software development (blog, side projects, community involvement)
 
 benefits: Work from home 2-3 days per week.
