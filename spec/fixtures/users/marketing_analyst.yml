@@ -1,1 +1,26 @@
-marketer.yml
+name: "Sarah the Marketer"
+email: "market4you@email.com"
+
+experience:
+  - company: "Mably"
+    industry: "Marketing"
+    years: 3
+    title: "Head of Creativity"
+    location: "Salt Lake City, Utah"
+
+  - company: "Fusion 360"
+    industry: "Digital Marketing"
+    years: 2
+    title: "Head of Social Media Marketing"
+    location: "San Francisco, California"
+
+  - company: "Fusion 360"
+    industry: "Digital Marketing"
+    years: 2
+    title: "Analyst"
+    location: "San Francisco, California"
+
+college: "New York University"
+degree: "BA Marketing"
+
+about_me: "I love marketing and running marketing campaigns"

@@ -1,1 +1,21 @@
-accountant.yml
+name: "Craig the Accountant"
+email: "account4you@email.com"
+
+experience:
+  - company: "Deloitte"
+    industry: "Accounting"
+    years: 2
+    title: "Manager"
+    location: "Chicago, Illinois"
+
+  - company: "Earnst & Young"
+    industry: "Accounting"
+    years: 2
+    title: "Associate"
+    location: "Chicago, Illinois"
+
+college: "Indiana University"
+degree: "BA Accounting"
+
+about_me: "I love accounting and crunching your accounts receivable"
+
