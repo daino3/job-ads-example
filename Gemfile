@@ -8,19 +8,27 @@ gem 'sinatra-partial', require: 'sinatra/partial'
 gem 'sinatra-assetpack'
 gem 'sinatra-activerecord'
 
+# Elasticsearch
+gem 'elasticsearch'
+gem 'elasticsearch-model'
+
 # Assets
 gem 'sass'
 gem 'slim'
 
 # Misc
-gem 'hashie'
 gem 'rake'
-gem 'stripe'
 gem 'thin'
 
 # Database
 gem 'activerecord'
 gem 'mysql2'
+
+# Niceties
+gem 'activesupport'
+
+# App
+gem 'geocoder'
 
 group :development, :test do
   gem 'pry'

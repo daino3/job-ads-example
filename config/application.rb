@@ -38,20 +38,22 @@ module JobAdsExampleApp
   end
 end
 
-# Run initializers
+# Initializers
 Dir[APP_ROOT.join('config', 'initializers', '**', '*.rb')].each { |file| require file }
 
-# Set up the controllers and helpers
+# Controllers and helpers
 Dir[APP_ROOT.join('app', 'controllers', '*.rb')].each { |file| require file }
 Dir[APP_ROOT.join('app', 'helpers', '*.rb')].each { |file| require file }
 
+# lib
+Dir[APP_ROOT.join('lib', '**', '*.rb')].each { |file| require file }
 # Set up the database and models
 # Log queries to STDOUT in development
 if JobAdsExampleApp::App.development?
   ActiveRecord::Base.logger = Logger.new(STDOUT)
 end
 
-# Automatically load every file in APP_ROOT/app/models/*.rb, e.g.,
+# Autoload model files in APP_ROOT/app/models/*.rb, e.g.,
 #   autoload "Person", 'app/models/person.rb'
 #
 # See http://www.rubyinside.com/ruby-techniques-revealed-autoload-1652.html

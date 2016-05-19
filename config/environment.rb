@@ -23,16 +23,15 @@ require 'sinatra/assetpack'
 require 'sinatra/support'
 require 'sinatra/partial'
 require "sinatra/activerecord"
+# Elasticsearch
+require "elasticsearch"
+require 'elasticsearch/model'
+# Active Support
+require 'active_support'
+require 'active_support/core_ext'
 # view rendering
 require 'slim'
-# API response hash / json helper
-require 'hashie'
-# stripe gem
-require 'stripe'
-# require 'pry'
 require 'yaml'
-# Used to create unique account_codes
-require 'securerandom'
 # Assets
 require 'sass'
 
