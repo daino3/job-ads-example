@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe User, :focus do
+describe User do
   def seed_users
     Dir[APP_ROOT.join("spec/fixtures/users/*.yml")].each do |file|
       usr_yaml = YAML.load_file(file)

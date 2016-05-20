@@ -1,5 +1,5 @@
 function stripeResponseHandler (status, response) {
 
-});
+};
 
 

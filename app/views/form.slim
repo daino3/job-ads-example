@@ -1,10 +1,8 @@
 .confirmation
   .confirmation-body
     h2.confirmation-messaging
-      span Thank you for subscribing.
+      span Create your Job Ad
       br You will be billed
-      span data-stripe="currency_symbol"
-      span data-stripe="total_next" name="total-next"
       span  every month.
 
 
@@ -12,24 +10,15 @@
   form#subscription-form
     .large-16.columns.logo-container
       .row
-        .company-logo
-          img src="/images/chicago_lot_mgmt.png"
+        h3#form-header Create A New Job Ad
 
     .large-16.columns.form-body
       .section.subscription-name-container
         .row
-          h3.large-16.columns.section-title Choose Your Plan
-          .small-10.columns
-            select data-stripe="plan" id="plan" name="plan" class="plan"
-              == select_options(@plans, Hash[@plans][@plan.id])
-
-          .small-6.columns
-            small-16.column.subscription-pricing
-              span.subscription-price
-                span $
-                span role="subscription-price" == @plan.amount / 100
-              span.subscription-frequency
-              | /mo
+          h3.large-16.columns.section-title Full-time or Part Time
+          div.large-16.columns
+            select name="plan"
+              == select_options(["Full-time", "Part-time", "-- Select --"])
 
       .section.form-errors.form-errors__hidden role="form-errors"
         strong Oops! The following fields appear to be invalid:
@@ -39,45 +28,33 @@
 
       section.billing-info-container.hide-form-onsuccess
         .row
-          h3.large-16.columns.section-title Account Information
+          h3.large-16.columns.section-title Job Details
 
         .row
           .large-8.columns
-            .form-input.form-input__first-name
-              input type="text" data-stripe="first_name" id="first_name" name="account[][first_name]" class="form-input__required" placeholder="First Name" required=""
+            .form-input.form-input__phone_number
+              input type="text" name="job_ad[][company]" class="form-input__required" placeholder="Company" required=""
           .large-8.columns
-            .form-input.form-input__last-name
-              input type="text" data-stripe="last_name" id="last_name" name="account[][last_name]" class="form-input__required" placeholder="Last Name" required=""
+            .form-input.form-input__first-name
+              input type="text" name="job_ad[][title]" class="form-input__required" placeholder="Title" required=""
         .row
           .large-8.columns
-            .form-input.form-input__email
-              input type="text" id="email" name="account[][email]" class="form-input__required" placeholder="Email" required=""
+            .form-input.form-input__last-name
+              input type="text" name="job_ad[][location]" class="form-input__required" placeholder="Location" required=""
           .large-8.columns
-            .form-input.form-input__phone_number
-              input type="text" id="phone_number" name="account[][phone_number]" class="form-input__required" placeholder="Phone Number" required=""
+            .form-input.form-input__email
+              input type="text" name="job_ad[][job_responsibilities]" class="form-input__required" placeholder="Job Responsibilities" required=""
         .row
           .large-16.columns
             .form-input.form-input__company
-              input type="text" id="company" name="account[][company]" class="form-input__required" placeholder="Company (optional)"
-
-            input type='hidden' role='promo-code-hidden' value='' name="account[][promo_code]"
-
-        .row
-          h3.large-16.columns.section-title Property Information
-
-        .row
-          ul.large-16.columns.properties
-            == partial(:"_property")
-          .large-16.columns
-            .button role='add-property' Add Property
-            .button.alert.hidden role='remove-property' Remove Property
+              input type="text" name="job_ad[][company]" class="form-input__required" placeholder="Company (optional)"
 
         .row
           h3.large-16.columns.section-title Billing Information
         .row
           .large-16.columns.customer-fields--card-number
             .form-input.form-input__number
-              input type="text" data-stripe="number" id="number" class="form-input__required" placeholder="4111 1111 1111 1111" required=""
+              input type="text" id="number" class="form-input__required" placeholder="4111 1111 1111 1111" required=""
               span.icon-card
               span.icon-lock
           .large-16.columns.customer-fields--card-details
@@ -90,19 +67,10 @@
           .large-16.columns.customer-fields--card-number
             .large-4.form-input
               input type="text" placeholder="Promo Code" role="promo-code"
-        .row
-          h3.large-16.columns.section-title Order Summary
-
-          .large-16.columns.order-summary-container
-            == partial(:'_order_summary')
-        .row
 
         .row
           .large-16.columns.hide-form-onsuccess.no-padding
             .large-16.columns
               input type='submit' id="subscribe" class="btn-submit" value="Buy Plan(s)"
 
-        .row
-          .large-16.columns.large-centered.stripe-logo
-            img src='/images/stripe.png'
 

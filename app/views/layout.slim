@@ -17,13 +17,15 @@ head
 
 body
   nav.top-bar data-topbar="" role="navigation"
-    ul.title-area
-      li.name
-        h1
-          a href="/" Spera
-      li.toggle-topbar.menu-icon
-        a href="#"
-          span Menu
+    .row
+      .small-16.columns
+        ul.title-area
+          li.name
+            h1
+              a href="/" Spera
+          li.toggle-topbar.menu-icon
+            a href="#"
+              span Menu
 
   .row
     == yield

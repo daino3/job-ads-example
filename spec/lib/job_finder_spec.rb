@@ -14,7 +14,7 @@ describe JobFinder do
 
       city_and_state = job_attrs["city_and_state"].split(", ")
 
-      lat_and_long = GeoLookup.get_coordinates(city_and_state[0], city_and_state[1])
+      lat_and_long = GeoLookup.get_coordinates(city: city_and_state[0], state: city_and_state[1])
 
       JobAd.create!(job_attrs.merge(latitude: lat_and_long[0], longitude: lat_and_long[1]))
     end
@@ -44,7 +44,7 @@ describe JobFinder do
       context 'Geolocation ' do
         it 'finds accountants sorted by distance away from' do
           # Search with Chicago Coords
-          chicago_coord = GeoLookup.get_coordinates("Chicago", "Illinois")
+          chicago_coord = GeoLookup.get_coordinates(city: "Chicago", state: "Illinois")
           chi_response = JobFinder.search("accounting", chicago_coord[0], chicago_coord[1])
 
           chi_ads = chi_response.records.to_a
@@ -55,7 +55,7 @@ describe JobFinder do
           expect(chi_ads[1].job_function).to eq("Finance")
 
           # Search with New York Coords
-          ny_coord = GeoLookup.get_coordinates("New York", "New York")
+          ny_coord = GeoLookup.get_coordinates(city: "New York", state: "New York")
           ny_response = JobFinder.search("accounting", ny_coord[0], ny_coord[1])
 
           ny_ads = ny_response.records.to_a

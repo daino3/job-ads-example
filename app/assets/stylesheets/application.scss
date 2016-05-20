@@ -1,9 +1,36 @@
 // utilities
 @import 'variables';
-@import 'mixins';
-// app styling
-@import 'form';
-@import 'admin';
+
 // foundation
 @import 'foundation/settings';
 @import 'foundation/foundation';
+
+@import 'mixins';
+
+// app styling
+@import 'form';
+@import 'table';
+
+.job-ads {
+  .panel {
+    height: 605px;
+    h5.header {
+      font-weight: bold;
+    }
+    ul {
+      margin-left: 0;
+      li.job-item {
+        border-radius: 5px;
+        border: 2px solid gray;
+        box-shadow: 5px 5px 5px #888888;
+        display: block;
+        padding: 10px;
+        margin-bottom: 10px;
+        span.job-attr {
+          font-weight: bold;
+          margin-right: 10px;
+        }
+      }
+    }
+  }
+}

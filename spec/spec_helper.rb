@@ -11,7 +11,7 @@ root = Pathname.new(File.expand_path('../../', __FILE__))
 
 Dir["#{root}/spec/support/**/*.rb"].each {|file| require file}
 
-ENV['RACK_ENV'] = 'test'
+ENV['RACK_ENV'] ||= 'test'
 
 module RSpecMixin
   include Rack::Test::Methods

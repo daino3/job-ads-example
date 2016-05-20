@@ -8,6 +8,8 @@ Bundler.require
 Bundler.setup :default
 $: << File.expand_path('../../', __FILE__)
 
+ENV['RACK_ENV'] ||= "development"
+
 # Require gems we care about
 require 'rubygems'
 require 'pry'

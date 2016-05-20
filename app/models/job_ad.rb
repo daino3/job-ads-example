@@ -19,6 +19,7 @@ class JobAd < ActiveRecord::Base
       indexes :requirements, type: 'string'
       indexes :other, type: 'string'
       indexes :location, type: 'geo_point'
+      indexes :id
     end
   end
 

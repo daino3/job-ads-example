@@ -1,1 +1,14 @@
+name: "Roscoe the Web Developer"
+email: "web-stuff@email.com"
+
+experience:
+  - company: "Freelancer"
+    industry: "Engineering"
+    years: 3
+    title: "Web Developer"
+    location: "San Francisco, California"
+
+college: "Alabama - Roll Tide"
+
+about_me: "I love open source and web stuff"
 

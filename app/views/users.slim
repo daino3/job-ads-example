@@ -1,0 +1,26 @@
+table.large-16.columns.users-table
+  caption Users
+  thead
+    tr
+      th Name
+      th Email
+      th College
+      th Degree
+      th Company
+      th Industry
+      th Job Title
+      th Location
+  tbody
+    - for user in @users do
+      tr
+        td
+          a href="/users/#{user.id}" == user.name
+        td= user.email
+        td= user.college
+        td= user.degree
+        td= user.current_job.company
+        td= user.current_job.industry
+        td= user.current_job.title
+        td= user.current_job.location
+        td
+          a data-confirm="Are you sure?" data-method="delete" href="/users/#{user.id}" rel="nofollow" Destroy

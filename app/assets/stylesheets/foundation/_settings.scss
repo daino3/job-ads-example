@@ -81,7 +81,7 @@ $include-html-global-classes: $include-html-classes;
 
 $row-width: rem-calc(1600);
 $total-columns: 16;
-$column-gutter: rem-calc(30);
+$column-gutter: rem-calc(100);
 
 // c. Global
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -822,7 +822,7 @@ $fieldset-padding: rem-calc(30);
 // Off Canvas Tab Bar Variables
 // $include-html-off-canvas-classes: $include-html-classes;
 
-// $tabbar-bg: $egg-shell;
+$tabbar-bg: $egg-shell;
 // $tabbar-height: rem-calc(45);
 // $tabbar-icon-width: $tabbar-height;
 // $tabbar-line-height: $tabbar-height;

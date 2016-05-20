@@ -1,7 +1,7 @@
 module GeoLookup
   extend self
 
-  def get_coordinates(city, state)
+  def get_coordinates(city: city, state: state)
     begin
       lookup.fetch(state).fetch(city)
     rescue KeyError

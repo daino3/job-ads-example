@@ -1,0 +1,103 @@
+.row
+  .large-4.columns
+    h1
+      img[src="http://placehold.it/400x100&text=Logo"]
+  .large-12.columns
+    ul.button-group.right
+      li
+        a.button[href="#"]
+          | Link 1
+      li
+        a.button[href="#"]
+          | Link 2
+      li
+        a.button[href="#"]
+          | Link 3
+      li
+        a.button[href="#"]
+          | Link 4
+
+.row
+  .large-10.columns
+    img[src="http://placehold.it/1000x400&text=[img]"]
+    hr
+  .large-6.columns
+    h4
+      | Welcome Back "#{@user.name}" from #{@user.current_job.location}
+    p
+      | #{@user.about_me}
+.row
+  .large-16.columns.centered
+    p
+      | Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow. Nulla corned beef sunt ball tip, qui bresaola enim jowl. Capicola short ribs minim salami nulla nostrud pastrami.
+      | Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.
+hr
+.row
+  .large-12.columns
+    .row
+      .large-10.columns.flush
+        h4
+          | This is a content section.
+        p
+          | Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.
+        p
+          | Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow. Nulla corned beef sunt ball tip, qui bresaola enim jowl. Capicola short ribs minim salami nulla nostrud pastrami.
+      .large-6.columns
+        img[src="http://placehold.it/400x300&text=[img]"]
+
+    hr
+    .row
+      .large-10.columns.flush
+        h4
+          | This is a content section.
+        p
+          | Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.
+        p
+          | Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow. Nulla corned beef sunt ball tip, qui bresaola enim jowl. Capicola short ribs minim salami nulla nostrud pastrami.
+      .large-6.columns
+        img[src="http://placehold.it/400x300&text=[img]"]
+
+  .large-4.columns.job-ads
+    .panel
+      h5.header Jobs Recommended For You
+      ul
+        - for job in @jobs do
+          li.job-item
+            h6
+              span.job-attr Company:
+              span == job.company
+            h6
+              span.job-attr Title:
+              span == job.title
+            h6
+              span.job-attr Industry:
+              span == job.industry
+            h6
+              span.job-attr Location:
+              span == job.city_and_state
+
+footer.row
+  .large-16.columns
+    hr
+    .row
+      .large-8.columns
+        p
+          | © Copyright no one at all. Go to town.
+      .large-8.columns
+        ul.inline-list.right
+          li
+            a[href="#"]
+              | Link 1
+          li
+            a[href="#"]
+              | Link 2
+          li
+            a[href="#"]
+              | Link 3
+          li
+            a[href="#"]
+              | Link 4
+script[src="https://code.jquery.com/jquery-2.1.4.min.js"]
+script[src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"]
+script
+  |  $(document).foundation();

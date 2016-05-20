@@ -2,11 +2,7 @@ module JobFinder
   extend self
 
   def client
-    @client ||= Elasticsearch::Client.new log: true
-  end
-
-  def as_search_params(user)
-
+    @client ||= Elasticsearch::Client.new(log: true)
   end
 
   def search(query_by, lat, long, offset = 0.2)
@@ -41,13 +37,26 @@ module JobFinder
 
   def text_search(query_string)
     {
-      multi_match: {
-          query: query_string,
-          type: "phrase_prefix",
-          fuzziness: 1,
-          prefix_length: 5,
-          fields: [ "title^3", "job_function^3", "job_description", "requirements", "industry"]
-        }
+      bool: {
+        should: [
+          { match_phrase: { title: query_string }},
+          { match_phrase: { job_function: query_string }},
+          { match_phrase: { job_description: query_string }},
+          { match_phrase: { requirements: query_string }},
+          { match_phrase: { company_description: query_string }},
+          { match_phrase: { other: query_string }}
+        ],
+        minimum_should_match: 1
+      }
     }
+    # {
+    #   multi_match: {
+    #     query: query_string,
+    #     type: "phrase_prefix",
+    #     fuzziness: 1,
+    #     prefix_length: 5,
+    #     fields: [ "title^3", "job_function^3", "job_description", "requirements", "industry"]
+    #   }
+    # }
   end
 end
