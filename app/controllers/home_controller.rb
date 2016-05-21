@@ -3,6 +3,7 @@ module JobAdsExampleApp
 
     get '/users' do
       @users = User.includes(:jobs).all
+      @jobs = JobAd.all
 
       slim :users, layout: true
     end

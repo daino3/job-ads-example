@@ -1,7 +1,7 @@
 class CreateJobAds < ActiveRecord::Migration
   def change
     create_table :job_ads do |t|
-      t.boolean :employment_type
+      t.string :employment_type
       t.string :company
       t.string :compensation
       t.string :experience

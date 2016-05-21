@@ -14,20 +14,20 @@
 ActiveRecord::Schema.define(version: 20160510195418) do
 
   create_table "job_ads", force: :cascade do |t|
-    t.boolean "employment_type"
-    t.string  "company",             limit: 255
-    t.string  "compensation",        limit: 255
-    t.string  "experience",          limit: 255
-    t.string  "industry",            limit: 255
-    t.string  "job_function",        limit: 255
-    t.string  "city_and_state",      limit: 255
-    t.string  "title",               limit: 255
-    t.float   "latitude",            limit: 24
-    t.float   "longitude",           limit: 24
-    t.text    "company_description", limit: 65535
-    t.text    "job_description",     limit: 65535
-    t.text    "requirements",        limit: 65535
-    t.text    "other",               limit: 65535
+    t.string "employment_type",     limit: 255
+    t.string "company",             limit: 255
+    t.string "compensation",        limit: 255
+    t.string "experience",          limit: 255
+    t.string "industry",            limit: 255
+    t.string "job_function",        limit: 255
+    t.string "city_and_state",      limit: 255
+    t.string "title",               limit: 255
+    t.float  "latitude",            limit: 24
+    t.float  "longitude",           limit: 24
+    t.text   "company_description", limit: 65535
+    t.text   "job_description",     limit: 65535
+    t.text   "requirements",        limit: 65535
+    t.text   "other",               limit: 65535
   end
 
   create_table "jobs", force: :cascade do |t|

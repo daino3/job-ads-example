@@ -3,7 +3,7 @@ class JobAd < ActiveRecord::Base
 
   index_name "job_ads-#{ENV['RACK_ENV']}"
 
-  enum employment_type: { part_time: 0, full_time: 1 }
+  # enum employment_type: { part_time: 0, full_time: 1 }
 
   settings do
     mappings do
@@ -21,6 +21,10 @@ class JobAd < ActiveRecord::Base
       indexes :location, type: 'geo_point'
       indexes :id
     end
+  end
+
+  after_commit on: [:destroy] do
+    __elasticsearch__.delete_document
   end
 
   def as_indexed_json(options={})

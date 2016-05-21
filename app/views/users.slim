@@ -1,5 +1,5 @@
 table.large-16.columns.users-table
-  caption Users
+  caption Users (From Spera App)
   thead
     tr
       th Name
@@ -24,3 +24,27 @@ table.large-16.columns.users-table
         td= user.current_job.location
         td
           a data-confirm="Are you sure?" data-method="delete" href="/users/#{user.id}" rel="nofollow" Destroy
+
+table.large-16.columns.users-table
+  caption Job Ads (Indicative)
+  thead
+    tr
+      th employment_type
+      th company
+      th compensation
+      th experience
+      th industry
+      th job_function
+      th city_and_state
+      th title
+  tbody
+    - for job in @jobs do
+      tr
+        td= job.employment_type
+        td= job.company
+        td= job.compensation
+        td= job.experience
+        td= job.industry
+        td= job.job_function
+        td= job.city_and_state
+        td= job.title
