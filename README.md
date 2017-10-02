@@ -1,14 +1,19 @@
-## Responsive Sinatra Form w/ Stripe Integration
+## Spike of Job Board using Elasticsearch & Ruby / Sinatra
 
-Couple niceties:
-+ Rails-like folder structure
+This includes:
++ Ruby / Sinatra / Active Record
 + [Foundation](http://foundation.zurb.com/docs/) responsive framework 
-+ Postgres database config
++ Postgres database 
 + Underscore.js 
 + Slim templating engine
-+ Stripe integration w/ quantity-based subscription
 + Rspec
-+ WIP: [Google Places Form Autocomplete, Coffeescript, Backbone?, Admin?]
++ WIP: [Google Places Form Autocomplete, Admin?]
+
+
+### To Install
+
++ Have ruby installed
++ Run: `$ bundle install`
 
 ### Running Server 
 Default set to 3000 in config.ru
@@ -20,20 +25,6 @@ bundle exec rackup
 ### Running Specs
 ```
 bundle exec rspec spec
-```
-
-### Heroku
-
-Assuming you have Heroku setup.
-
-```
-heroku create
-```
-
-Pushing to heroku
-
-```
-git push heroku master
 ```
 
 
